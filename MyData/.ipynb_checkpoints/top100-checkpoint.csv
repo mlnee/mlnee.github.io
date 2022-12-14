@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,duration_ms,danceability,valence,energy,tempo,loudness,speechiness,instrumentalness,liveness,acousticness
+0,The Weeknd,Dawn FM,Is There Someone Else?,0mL82sxCRjrs3br407IdJh,199111,0.702,0.608,0.586,134.951,-7.83,0.0313,7.27e-05,0.156,0.0388
+1,The Weeknd,Dawn FM,"Here We Go… Again (feat. Tyler, the Creator)",1NhjYYcYTRywc0di98xHxf,209778,0.469,0.198,0.623,134.943,-4.432,0.0302,0,0.588,0.345
+2,Father John Misty,Pure Comedy,Pure Comedy,0HbFgNSVPMfZLXcmkm5Q42,383800,0.463,0.157,0.262,130.228,-11.655,0.0404,0,0.215,0.816
+3,Rina Sawayama,SAWAYAMA,XS,1TWNKyNQOBfNUkWWs7FooF,201060,0.635,0.59,0.929,117.039,-3.256,0.146,1.14e-06,0.0822,0.0854
+4,Kate Bush,Hounds of Love (2018 Remaster),Hounds Of Love - 2018 Remaster,7Gmds7ZyvhKdoU0Ho4GIxK,182867,0.543,0.928,0.795,145.523,-12.769,0.0394,3.5e-06,0.2,0.498
+5,The Weeknd,Dawn FM,Best Friends,1E5Xu8dur0fAjSP1VpVhAZ,163504,0.737,0.528,0.564,90.0,-7.045,0.105,0,0.351,0.436
+6,Father John Misty,Chloë and the Next 20th Century,Funny Girl,0reRPFzKIUVpwkXFE7Qt2w,219013,0.237,0.254,0.352,180.402,-8.864,0.0359,0.229,0.156,0.963
+7,Angel Olsen,MY WOMAN,Shut Up Kiss Me,3EEr6l5PYelwkrvvKX7N0X,202200,0.375,0.349,0.63,115.728,-5.131,0.0453,0,0.107,0.0552
+8,Nigo,I Know NIGO!,"Come On, Let's Go (with Nigo)",6f44p3Kc4ayD9VtbC9Clkr,199500,0.732,0.488,0.734,145.722,-7.968,0.0974,0.000901,0.165,0.136
+9,Weyes Blood,Titanic Rising,Something to Believe,30TCAxiC8zVb5NVdUoUuCS,285560,0.31,0.188,0.391,136.964,-8.594,0.0274,1.62e-05,0.319,0.625
+10,Kate Bush,Hounds of Love (2018 Remaster),And Dream Of Sheep - 2018 Remaster,0NMLAW3ma3naFx3DQRrnNS,165013,0.257,0.308,0.0599,78.962,-17.884,0.041,0,0.339,0.915
+11,Grimes,Art Angels,Realiti,7eXFZCiP9GqdMUashk96UF,306532,0.639,0.35,0.632,114.993,-7.589,0.029,0.0411,0.115,0.000904
+12,Rina Sawayama,SAWAYAMA,Bad Friend,1ApN1loxlt0rzRFc8iETw7,208128,0.549,0.454,0.72,94.92,-4.426,0.0502,3e-06,0.327,0.215
+13,Rex Orange County,WHO CARES?,SHOOT ME DOWN,5jLjUQIa8fV6erihJb1App,292467,0.615,0.48,0.606,139.246,-8.553,0.0325,0.00894,0.0863,0.485
+14,Denzel Curry,Melt My Eyez See Your Future,"Ain't No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]",1InX2gJz9jvp4tLOc84DWe,264613,0.405,0.327,0.707,80.666,-7.586,0.111,2.96e-06,0.348,0.0929
+15,Joji,Glimpse of Us,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,233456,0.44,0.268,0.317,169.914,-9.258,0.0531,4.78e-06,0.141,0.891
+16,Grimes,Art Angels,Flesh without Blood,62jc4VA6WPoANaL9Duu8db,264524,0.481,0.66,0.965,155.934,-2.993,0.0875,0.000733,0.476,0.000903
+17,The Weeknd,Dawn FM,How Do I Make You Love Me?,2Ghp894n1laIf2w98VeAOJ,214215,0.805,0.636,0.498,121.006,-7.927,0.0737,2.37e-05,0.085,0.0203
+18,Denzel Curry,Melt My Eyez See Your Future,Troubles [Feat. T-Pain],5gAYHuWkL18ccsxM6akJXP,160000,0.78,0.899,0.751,180.008,-4.681,0.177,3.36e-05,0.176,0.546
+19,"Tyler, The Creator",IGOR,NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,195320,0.621,0.464,0.73,139.566,-5.414,0.107,0.000131,0.673,0.0967
+20,Charli XCX,Beg For You (feat. Rina Sawayama),Beg For You (feat. Rina Sawayama),50ZFpw2wS6ERvLmW8TINhq,168053,0.788,0.466,0.945,128.036,-5.091,0.0599,2.97e-06,0.115,0.223
+21,FKA twigs,CAPRISONGS,tears in the club (feat. the weeknd),1GsSM1Fju5J1Fsu51jEsTg,196760,0.616,0.72,0.717,167.99,-6.178,0.11,9.81e-05,0.0731,0.194
+22,Denzel Curry,Melt My Eyez See Your Future,Walkin,1q8DwZtQen5fvyB7cKbShC,280000,0.557,0.386,0.654,135.983,-7.201,0.196,0,0.291,0.134
+23,Perfume Genius,Set My Heart On Fire Immediately,On the Floor,05HElY3EVth4SMuOJOGusl,303600,0.412,0.583,0.727,117.551,-6.001,0.0369,0.00171,0.257,0.318
+24,Kate Bush,Hounds of Love (2018 Remaster),Running Up That Hill (A Deal With God) - 2018 Remaster,29d0nY7TzCoi22XBqDQkiP,300840,0.625,0.139,0.533,108.296,-11.903,0.0596,0.00266,0.0546,0.659
+25,The Weeknd,Dawn FM,Out of Time,2SLwbpExuoBDZBpjfefCtV,214194,0.65,0.838,0.76,93.057,-4.422,0.0446,0,0.339,0.255
+26,Sufjan Stevens,A Beginner's Mind,Back To Oz,6s0F09N7jp4wSqN8vVgMQR,252053,0.438,0.441,0.408,170.068,-10.461,0.0314,0.00118,0.131,0.528
+27,The Beach Boys,Surf's Up,Disney Girls (1957) - Remastered 2009,17qLiavc8woWHAPAGZD0Py,250960,0.489,0.184,0.211,83.946,-17.056,0.0316,0.264,0.261,0.452
+28,Weyes Blood,Titanic Rising,Andromeda,51EMSRpNm9Rg5rGViVCczv,280187,0.467,0.188,0.461,131.325,-7.94,0.0274,0.00115,0.358,0.368
+29,The Weeknd,Dawn FM,Starry Eyes,6zzdyvVWjGrQBraSvuqJPY,148000,0.309,0.146,0.418,134.23,-8.622,0.031,7.58e-05,0.295,0.465
+30,Rina Sawayama,RINA,Cyber Stockholm Syndrome,7I9bSsqqIA0cV1nL0igGLm,221880,0.527,0.259,0.672,139.007,-5.642,0.0509,0,0.341,0.41
+31,Harry Styles,Harry's House,Love Of My Life,1mw0RgNXIpYRyyCdBQbLgA,191638,0.555,0.203,0.536,118.057,-8.233,0.0452,0,0.0623,0.669
+32,Magdalena Bay,Mercurial World,You Lose!,0tP8FKhJsar5y4JcOH4Rjp,204391,0.628,0.164,0.909,120.01,-6.168,0.0423,0.372,0.923,6.78e-05
+33,The Weeknd,Dawn FM,Gasoline,3KyKxJ4P3pVCgaZwaq2rUC,212166,0.728,0.31,0.741,123.006,-7.075,0.0473,0.00206,0.33,0.000582
+34,Phoebe Bridgers,Sidelines,Sidelines,4SKvKJaqkRl1bUZWEqTYzl,264372,0.405,0.0412,0.544,179.863,-9.451,0.0327,0.391,0.141,0.524
+35,Perfume Genius,No Shape,Just Like Love,6rY5mbytXlR0DhnjZRsBVK,196133,0.658,0.415,0.551,119.013,-7.566,0.0318,0.145,0.115,0.347
+36,Japanese Breakfast,Jubilee,"Kokomo, IN",0O4sIQ728ugLlwBVaxF8UM,218745,0.415,0.721,0.665,202.173,-6.374,0.0291,3.6e-06,0.0926,0.0792
+37,The Weeknd,Dawn FM,Sacrifice,1nH2PkJL1XoUq8oE6tBZoU,188918,0.735,0.905,0.795,122.0,-6.523,0.113,3.18e-05,0.0678,0.0296
+38,illuminati hotties,Let Me Do One More,u v v p (feat. Buck Meek),3WjjfLHUHM2an4j5NkjGUa,284810,0.327,0.354,0.637,129.976,-6.624,0.0359,0.00116,0.104,0.00211
+39,Kate Bush,Hounds of Love (2018 Remaster),Cloudbusting - 2018 Remaster,0cuMpt0w9ahbhJl0R2fbkY,309973,0.712,0.807,0.281,112.787,-15.497,0.0332,3.66e-05,0.0797,0.638
+40,The Avalanches,We Will Always Love You,Take Care In Your Dreaming,1t0YL0DwYHhbW5P4BvV7j1,300107,0.611,0.329,0.822,130.286,-7.019,0.0462,0.00129,0.138,0.509
+41,Rex Orange County,WHO CARES?,"OPEN A WINDOW (feat. Tyler, The Creator)",1TDeDFUYHjZKLsO6bzoVg1,218587,0.541,0.548,0.607,79.974,-7.174,0.0482,0,0.193,0.282
+42,Kanye West,My Beautiful Dark Twisted Fantasy,Devil In A New Dress,1UGD3lW3tDmgZfAVDh6w7r,351947,0.435,0.206,0.76,80.082,-4.935,0.0721,0,0.158,0.0175
+43,The Japanese House,Maybe You're the Reason,Maybe You're the Reason,7xKjdvYaJ1tvwNXRTAZs78,218936,0.621,0.395,0.762,95.014,-6.376,0.0328,2.71e-06,0.302,0.106
+44,Joji,YUKON (INTERLUDE),YUKON (INTERLUDE),6c1yUgFlhUHLAM9hSDkVBq,141093,0.736,0.0728,0.71,82.482,-8.497,0.091,0.0351,0.395,0.383
+45,Caveboy,Caveboy,Something Like Summer,2ghUCNlKImZjdJSRlfz2wm,272933,0.462,0.309,0.888,124.976,-6.31,0.0473,0.136,0.109,0.00444
+46,Angel Olsen,MY WOMAN,Those Were the Days,67giNTAhvHyTPRAFVD5iit,259507,0.387,0.259,0.332,142.404,-11.996,0.0324,0.00242,0.0795,0.657
+47,Denzel Curry,Melt My Eyez See Your Future,X-Wing,41X9qar6SruZOPLIV7sgUw,176000,0.787,0.424,0.675,119.988,-7.629,0.136,0,0.695,0.109
+48,Andrew Bird,Are You Serious,Roma Fade,5fMZ4cDsfhxR7gnFdtrWCy,243120,0.594,0.76,0.689,138.4,-8.395,0.0393,0.0173,0.0869,0.302
+49,Faye Webster,I Know I'm Funny haha,In A Good Way,2VYnlKxB8jpbCeLUjQsebc,224680,0.587,0.302,0.286,71.123,-8.839,0.0315,0.0288,0.214,0.185
+50,Toro y Moi,MAHAL,Magazine,0HFy9wgmuePUSfwmjqhA6Y,191525,0.629,0.534,0.763,120.194,-6.796,0.127,6.01e-05,0.106,0.291
+51,Perfume Genius,Set My Heart On Fire Immediately,Without You,2sLkJQNpMoOhxmTO6U1scK,155547,0.649,0.831,0.755,133.516,-5.33,0.0289,0.00699,0.346,0.0669
+52,Taylor Swift,Daylight (Live From Paris),Daylight - Live From Paris,7ryS0xBZNYjQqql34GCkDp,262320,0.49,0.217,0.228,75.858,-10.504,0.0361,0,0.733,0.794
+53,FKA twigs,CAPRISONGS,meta angel,6EeuY84I1Q3UJvpPN6iSzw,259467,0.568,0.243,0.369,134.789,-8.758,0.127,1.77e-05,0.168,0.81
+54,Denzel Curry,ZUU,WISH FEAT. KIDDO MARV,0shSP8DgseLewHgAiMC4UL,192013,0.655,0.622,0.766,95.017,-6.746,0.0736,0,0.425,0.234
+55,Men I Trust,Numb,Numb,6Ijmj8Z0L31hCp5pLZnT5U,219340,0.783,0.65,0.303,138.816,-14.393,0.0527,0.945,0.109,0.811
+56,The Weeknd,Starboy,Party Monster,4F7A0DXBrmUAkp32uenhZt,249213,0.573,0.218,0.63,77.525,-8.389,0.105,2.31e-05,0.259,0.189
+57,James Blake,Friends That Break Your Heart (Bonus),Famous Last Words,31H5dHBR7g381udIzXSKIE,256156,0.583,0.0398,0.192,75.534,-12.578,0.039,0.26,0.118,0.959
+58,Denzel Curry,Melt My Eyez See Your Future,The Last,3lKAIzNiCFL9cqPl3Glb5B,262587,0.808,0.306,0.559,111.043,-9.007,0.0977,0,0.113,0.409
+59,Men I Trust,Show Me How,Show Me How,01TyFEZu6mHbffsVfxgrFn,215111,0.791,0.544,0.267,165.99,-11.997,0.0415,0.534,0.102,0.674
+60,The Weeknd,Kiss Land,Kiss Land,5idmfDT06TjCQ1SPDsa5qh,455333,0.324,0.4,0.852,121.881,-6.675,0.109,0,0.061,0.0415
+61,Magdalena Bay,Mercurial World,Mercurial World,30YK7cZlruEW0Clyxwk2nH,181174,0.574,0.334,0.673,119.987,-6.863,0.0479,0.00172,0.336,0.00424
+62,Kanye West,The College Dropout,Through The Wire,4mmkhcEm1Ljy1U9nwtsxUo,221227,0.571,0.66,0.739,83.089,-6.11,0.247,5.21e-06,0.158,0.00865
+63,Djo,Twenty Twenty,Roddy,5hS8s1Vf4CeSRBT1bTWa39,252987,0.558,0.674,0.522,179.982,-9.161,0.0278,0.0273,0.0686,0.112
+64,Drake,Take Care (Deluxe),Crew Love,0V4l4GQhgnWQGtCWpvA7va,208813,0.418,0.294,0.546,160.152,-9.057,0.238,0,0.229,0.227
+65,Magdalena Bay,Mercurial World,Secrets (Your Fire),3tgHGoK5ItQv2q2yqggxlb,245897,0.691,0.826,0.827,107.997,-5.573,0.0402,0.637,0.416,0.00177
+66,James Blake,Friends That Break Your Heart (Bonus),Coming Back (feat. SZA),3lRx4jcfc88j54ZU2h2G60,195905,0.653,0.102,0.496,86.013,-7.262,0.0868,0.274,0.151,0.625
+67,FKA twigs,CAPRISONGS,careless (feat. daniel caesar),3xqtvSfofDvSMVwwSbuvKi,216760,0.706,0.26,0.395,118.128,-6.952,0.0588,2.16e-05,0.203,0.724
+68,Father John Misty,Chloë and the Next 20th Century,Q4,2RCSJR2v4LXlkW6o4RD5R2,297947,0.557,0.426,0.73,95.08,-5.489,0.0234,0.000155,0.204,0.0624
+69,Vince Staples,Big Fish Theory,Yeah Right,35tWhD29yvWwB0IDRr6zsL,188947,0.734,0.285,0.468,118.001,-9.029,0.0912,0,0.382,0.018
+70,Porter Robinson,Nurture,Look at the Sky,5lXNcc8QeM9KpAWNHAL0iS,309986,0.568,0.385,0.564,115.059,-8.231,0.0273,0.000127,0.0766,0.0105
+71,Lana Del Rey,Honeymoon,Freak,3sYDVtqO35oRSOIMx7dOqR,295093,0.287,0.109,0.43,93.984,-10.014,0.033,0.000579,0.32,0.269
+72,Perfume Genius,No Shape,Slip Away,13yxz52EwElyue9PLrqcZY,165330,0.603,0.572,0.509,136.592,-6.824,0.0311,2.91e-05,0.0627,0.374
+73,The Last Shadow Puppets,Everything You've Come To Expect (Deluxe Edition),"Sweet Dreams, TN",1W0OCrMsRP1SLTEdw3JwEz,236253,0.282,0.477,0.566,112.362,-6.924,0.0291,0,0.38,0.000878
+74,Kanye West,Graduation,Flashing Lights,5TRPicyLGbAF2LGBFbHGvO,237507,0.639,0.43,0.628,90.482,-7.578,0.0399,0,0.386,0.0381
+75,Kero Kero Bonito,Bonito Generation,Picture This,7wz3rjLXic7K4LAKdlin2t,204497,0.744,0.667,0.821,106.976,-4.548,0.0368,6.22e-05,0.112,0.00138
+76,JPEGMAFIA,LP!,THOT'S PRAYER!,0O0q3mDpIZH1BJXBEH5ad8,187758,0.697,0.433,0.65,123.92,-7.27,0.0996,0,0.354,0.456
+77,FKA twigs,CAPRISONGS,minds of men,6rjnUkLj645A70RfJnCnPI,204533,0.627,0.183,0.519,130.789,-9.349,0.289,0.00183,0.102,0.798
+78,James Blake,Assume Form,Can't Believe The Way We Flow,03NtFY8KBtBsLQg2E9rVDI,267200,0.259,0.29,0.536,143.948,-10.309,0.0367,0.000501,0.432,0.705
+79,Kero Kero Bonito,Time 'n' Place,Swimming,3PlW2cNr5pmZCXcf1Vm33h,199498,0.679,0.6,0.609,119.998,-5.512,0.029,0,0.0972,0.686
+80,Harry Styles,Harry's House,Late Night Talking,1qEmFfgcLObUfQm0j1W2CK,177955,0.714,0.901,0.728,114.996,-4.595,0.0468,0,0.106,0.298
+81,Helena Deland,"Altogether Unaccompanied, Vol. I",There Are a Thousand,6fGBrrEcpArzSxiiGv1wof,216243,0.642,0.432,0.464,138.112,-9.544,0.0269,0.154,0.148,0.825
+82,Japanese Breakfast,Jubilee,Be Sweet,0dpyzcT3RMNNSd2xKBf35I,195371,0.653,0.62,0.877,109.985,-5.82,0.0275,1.04e-05,0.32,0.0102
+83,Sky Ferreira,"Night Time, My Time",24 Hours,2XPxacir3WoMtJ2pbTd240,244133,0.519,0.245,0.874,108.242,-3.554,0.0391,0,0.276,0.031
+84,KAYTRANADA,Intimidated,Intimidated (feat. H.E.R.),0dFdGPVLs3k0z9ezYWZzUa,207840,0.738,0.342,0.75,112.009,-3.654,0.219,0.00976,0.174,0.0167
+85,Steve Lacy,Gemini Rights,Helmet,0DmkBOGgEWMbUJlL6VwwF2,201547,0.612,0.763,0.675,97.04,-6.518,0.0231,0,0.217,0.0994
+86,Taylor Swift,folklore,august,3hUxzQpSfdDqwM3ZTFQY0K,261923,0.532,0.403,0.623,89.937,-9.208,0.0331,7.28e-05,0.0925,0.538
+87,Father John Misty,"I Love You, Honeybear",Chateau Lobby #4 (in C for Two Virgins),3wfF0Nw234zHY1vdIWIc2g,170827,0.446,0.8,0.807,188.094,-5.222,0.041,0,0.226,0.215
+88,Flume,The Difference,The Difference,4nlvKIIetOWGIMyhjQXgOZ,139663,0.56,0.424,0.865,159.96,-1.148,0.0909,0.000153,0.083,0.255
+89,Jack Harlow,Sweet Action,I WANNA SEE SOME ASS (feat. jetsonmade),2aWVaW1p2kUc5yuKwBmRJi,125302,0.899,0.865,0.691,107.951,-7.554,0.0497,0.000451,0.135,0.18
+90,Mitski,Lush,Liquid Smooth,3XCveEutwTaDiekRkkfdp9,169773,0.424,0.124,0.342,76.235,-9.469,0.0339,0,0.136,0.838
+91,Harry Styles,Harry's House,Cinema,35TyJIMR3xRouUuo2sjS6v,243508,0.829,0.896,0.644,105.993,-7.696,0.0427,0.0511,0.0944,0.354
+92,Rina Sawayama,SAWAYAMA,Comme Des Garçons (Like The Boys),43bYs8QkPdCdy5esfnmU1T,181506,0.724,0.645,0.715,119.162,-3.776,0.116,0.00276,0.441,0.0246
+93,The Weeknd,After Hours,Escape From LA,1sOW4PuG5X3Ie3EXUhAopJ,355960,0.404,0.168,0.524,145.74,-8.996,0.0593,0.00316,0.199,0.0456
+94,Kanye West,Late Registration,Touch The Sky,2dxjKgT0li4qBI3QwuN9Ih,236600,0.552,0.554,0.846,98.56,-4.912,0.342,0,0.309,0.0114
+95,Faye Webster,I Know I'm Funny haha,Better Distractions,3CmcswzHOACDjooV1KLULN,249985,0.701,0.566,0.52,96.372,-9.541,0.0243,0.0147,0.0916,0.0654
+96,Angel Olsen,All Mirrors,Chance,6oDmpEgamGo6r3YRrNRQM8,359467,0.199,0.246,0.351,182.463,-8.997,0.0303,0.000366,0.281,0.183
+97,Gesaffelstein,Hyperion,Lost in the Fire (feat. The Weeknd),2vXKRlJBXyOcvZYTdNeckS,202093,0.658,0.166,0.671,100.966,-12.21,0.0363,0.000927,0.115,0.0933
+98,The Neighbourhood,Chip Chrome & The Mono-Tones,Devil's Advocate,4XfI7M5gLwEY84gYiH4RDD,186307,0.662,0.864,0.681,98.004,-8.152,0.0315,0.139,0.508,0.0321
+99,Weyes Blood,Titanic Rising,Everyday,2VYqgye3Wf9ySE4qYM3iJn,307013,0.483,0.423,0.57,112.975,-7.245,0.0308,4.43e-05,0.0938,0.269
