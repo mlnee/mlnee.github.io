@@ -1,0 +1,395 @@
+artist,album,track_name,track_id,genre,popularity,duration_ms,danceability,valence,energy,tempo,loudness,speechiness,instrumentalness,liveness,acousticness,rating
+The Weeknd,Dawn FM,Is There Someone Else?,0mL82sxCRjrs3br407IdJh,canadian contemporary r&b,84,199111,0.702,0.608,0.586,134.951,-7.83,0.0313,7.27e-05,0.156,0.0388,1
+The Weeknd,Dawn FM,"Here We Go… Again (feat. Tyler, the Creator)",1NhjYYcYTRywc0di98xHxf,canadian contemporary r&b,70,209778,0.469,0.198,0.623,134.943,-4.432,0.0302,0,0.588,0.345,1
+Father John Misty,Pure Comedy,Pure Comedy,0HbFgNSVPMfZLXcmkm5Q42,chamber pop,41,383800,0.463,0.157,0.262,130.228,-11.655,0.0404,0,0.215,0.816,1
+Rina Sawayama,SAWAYAMA,XS,1TWNKyNQOBfNUkWWs7FooF,art pop,62,201060,0.635,0.59,0.929,117.039,-3.256,0.146,1.14e-06,0.0822,0.0854,1
+Kate Bush,Hounds of Love (2018 Remaster),Hounds Of Love - 2018 Remaster,7Gmds7ZyvhKdoU0Ho4GIxK,art pop,52,182867,0.543,0.928,0.795,145.523,-12.769,0.0394,3.5e-06,0.2,0.498,1
+The Weeknd,Dawn FM,Best Friends,1E5Xu8dur0fAjSP1VpVhAZ,canadian contemporary r&b,71,163504,0.737,0.528,0.564,90.0,-7.045,0.105,0,0.351,0.436,1
+Father John Misty,Chloë and the Next 20th Century,Funny Girl,0reRPFzKIUVpwkXFE7Qt2w,chamber pop,44,219013,0.237,0.254,0.352,180.402,-8.864,0.0359,0.229,0.156,0.963,1
+Angel Olsen,MY WOMAN,Shut Up Kiss Me,3EEr6l5PYelwkrvvKX7N0X,alternative americana,57,202200,0.375,0.349,0.63,115.728,-5.131,0.0453,0,0.107,0.0552,1
+Nigo,I Know NIGO!,"Come On, Let's Go (with Nigo)",6f44p3Kc4ayD9VtbC9Clkr,hip hop,69,199500,0.732,0.488,0.734,145.722,-7.968,0.0974,0.000901,0.165,0.136,1
+Weyes Blood,Titanic Rising,Something to Believe,30TCAxiC8zVb5NVdUoUuCS,art pop,53,285560,0.31,0.188,0.391,136.964,-8.594,0.0274,1.62e-05,0.319,0.625,1
+Kate Bush,Hounds of Love (2018 Remaster),And Dream Of Sheep - 2018 Remaster,0NMLAW3ma3naFx3DQRrnNS,art pop,40,165013,0.257,0.308,0.0599,78.962,-17.884,0.041,0,0.339,0.915,1
+Grimes,Art Angels,Realiti,7eXFZCiP9GqdMUashk96UF,art pop,54,306532,0.639,0.35,0.632,114.993,-7.589,0.029,0.0411,0.115,0.000904,1
+Rina Sawayama,SAWAYAMA,Bad Friend,1ApN1loxlt0rzRFc8iETw7,art pop,52,208128,0.549,0.454,0.72,94.92,-4.426,0.0502,3e-06,0.327,0.215,1
+Rex Orange County,WHO CARES?,SHOOT ME DOWN,5jLjUQIa8fV6erihJb1App,bedroom pop,51,292467,0.615,0.48,0.606,139.246,-8.553,0.0325,0.00894,0.0863,0.485,1
+Denzel Curry,Melt My Eyez See Your Future,"Ain't No Way [Feat. 6LACK, Rico Nasty, J.I.D, Jasiah, Kitty Ca$h]",1InX2gJz9jvp4tLOc84DWe,dark trap,59,264613,0.405,0.327,0.707,80.666,-7.586,0.111,2.96e-06,0.348,0.0929,1
+Joji,Glimpse of Us,Glimpse of Us,6xGruZOHLs39ZbVccQTuPZ,viral pop,90,233456,0.44,0.268,0.317,169.914,-9.258,0.0531,4.78e-06,0.141,0.891,1
+Grimes,Art Angels,Flesh without Blood,62jc4VA6WPoANaL9Duu8db,art pop,57,264524,0.481,0.66,0.965,155.934,-2.993,0.0875,0.000733,0.476,0.000903,1
+The Weeknd,Dawn FM,How Do I Make You Love Me?,2Ghp894n1laIf2w98VeAOJ,canadian contemporary r&b,73,214215,0.805,0.636,0.498,121.006,-7.927,0.0737,2.37e-05,0.085,0.0203,1
+Denzel Curry,Melt My Eyez See Your Future,Troubles [Feat. T-Pain],5gAYHuWkL18ccsxM6akJXP,dark trap,60,160000,0.78,0.899,0.751,180.008,-4.681,0.177,3.36e-05,0.176,0.546,1
+"Tyler, The Creator",IGOR,NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,hip hop,83,195320,0.621,0.464,0.73,139.566,-5.414,0.107,0.000131,0.673,0.0967,1
+Charli XCX,Beg For You (feat. Rina Sawayama),Beg For You (feat. Rina Sawayama),50ZFpw2wS6ERvLmW8TINhq,art pop,67,168053,0.788,0.466,0.945,128.036,-5.091,0.0599,2.97e-06,0.115,0.223,1
+FKA twigs,CAPRISONGS,tears in the club (feat. the weeknd),1GsSM1Fju5J1Fsu51jEsTg,afrofuturism,61,196760,0.616,0.72,0.717,167.99,-6.178,0.11,9.81e-05,0.0731,0.194,1
+Denzel Curry,Melt My Eyez See Your Future,Walkin,1q8DwZtQen5fvyB7cKbShC,dark trap,71,280000,0.557,0.386,0.654,135.983,-7.201,0.196,0,0.291,0.134,1
+Perfume Genius,Set My Heart On Fire Immediately,On the Floor,05HElY3EVth4SMuOJOGusl,art pop,49,303600,0.412,0.583,0.727,117.551,-6.001,0.0369,0.00171,0.257,0.318,1
+Kate Bush,Hounds of Love (2018 Remaster),Running Up That Hill (A Deal With God) - 2018 Remaster,29d0nY7TzCoi22XBqDQkiP,art pop,81,300840,0.625,0.139,0.533,108.296,-11.903,0.0596,0.00266,0.0546,0.659,1
+The Weeknd,Dawn FM,Out of Time,2SLwbpExuoBDZBpjfefCtV,canadian contemporary r&b,83,214194,0.65,0.838,0.76,93.057,-4.422,0.0446,0,0.339,0.255,1
+Sufjan Stevens,A Beginner's Mind,Back To Oz,6s0F09N7jp4wSqN8vVgMQR,baroque pop,52,252053,0.438,0.441,0.408,170.068,-10.461,0.0314,0.00118,0.131,0.528,1
+The Beach Boys,Surf's Up,Disney Girls (1957) - Remastered 2009,17qLiavc8woWHAPAGZD0Py,baroque pop,37,250960,0.489,0.184,0.211,83.946,-17.056,0.0316,0.264,0.261,0.452,1
+Weyes Blood,Titanic Rising,Andromeda,51EMSRpNm9Rg5rGViVCczv,art pop,68,280187,0.467,0.188,0.461,131.325,-7.94,0.0274,0.00115,0.358,0.368,1
+The Weeknd,Dawn FM,Starry Eyes,6zzdyvVWjGrQBraSvuqJPY,canadian contemporary r&b,69,148000,0.309,0.146,0.418,134.23,-8.622,0.031,7.58e-05,0.295,0.465,1
+Rina Sawayama,RINA,Cyber Stockholm Syndrome,7I9bSsqqIA0cV1nL0igGLm,art pop,48,221880,0.527,0.259,0.672,139.007,-5.642,0.0509,0,0.341,0.41,1
+Harry Styles,Harry's House,Love Of My Life,1mw0RgNXIpYRyyCdBQbLgA,pop,81,191638,0.555,0.203,0.536,118.057,-8.233,0.0452,0,0.0623,0.669,1
+Magdalena Bay,Mercurial World,You Lose!,0tP8FKhJsar5y4JcOH4Rjp,art pop,53,204391,0.628,0.164,0.909,120.01,-6.168,0.0423,0.372,0.923,6.78e-05,1
+The Weeknd,Dawn FM,Gasoline,3KyKxJ4P3pVCgaZwaq2rUC,canadian contemporary r&b,73,212166,0.728,0.31,0.741,123.006,-7.075,0.0473,0.00206,0.33,0.000582,1
+Phoebe Bridgers,Sidelines,Sidelines,4SKvKJaqkRl1bUZWEqTYzl,indie pop,63,264372,0.405,0.0412,0.544,179.863,-9.451,0.0327,0.391,0.141,0.524,1
+Perfume Genius,No Shape,Just Like Love,6rY5mbytXlR0DhnjZRsBVK,art pop,32,196133,0.658,0.415,0.551,119.013,-7.566,0.0318,0.145,0.115,0.347,1
+Japanese Breakfast,Jubilee,"Kokomo, IN",0O4sIQ728ugLlwBVaxF8UM,art pop,59,218745,0.415,0.721,0.665,202.173,-6.374,0.0291,3.6e-06,0.0926,0.0792,1
+The Weeknd,Dawn FM,Sacrifice,1nH2PkJL1XoUq8oE6tBZoU,canadian contemporary r&b,80,188918,0.735,0.905,0.795,122.0,-6.523,0.113,3.18e-05,0.0678,0.0296,1
+illuminati hotties,Let Me Do One More,u v v p (feat. Buck Meek),3WjjfLHUHM2an4j5NkjGUa,bubblegrunge,36,284810,0.327,0.354,0.637,129.976,-6.624,0.0359,0.00116,0.104,0.00211,1
+Kate Bush,Hounds of Love (2018 Remaster),Cloudbusting - 2018 Remaster,0cuMpt0w9ahbhJl0R2fbkY,art pop,54,309973,0.712,0.807,0.281,112.787,-15.497,0.0332,3.66e-05,0.0797,0.638,1
+The Avalanches,We Will Always Love You,Take Care In Your Dreaming,1t0YL0DwYHhbW5P4BvV7j1,alternative dance,43,300107,0.611,0.329,0.822,130.286,-7.019,0.0462,0.00129,0.138,0.509,1
+Rex Orange County,WHO CARES?,"OPEN A WINDOW (feat. Tyler, The Creator)",1TDeDFUYHjZKLsO6bzoVg1,bedroom pop,61,218587,0.541,0.548,0.607,79.974,-7.174,0.0482,0,0.193,0.282,1
+Kanye West,My Beautiful Dark Twisted Fantasy,Devil In A New Dress,1UGD3lW3tDmgZfAVDh6w7r,chicago rap,79,351947,0.435,0.206,0.76,80.082,-4.935,0.0721,0,0.158,0.0175,1
+The Japanese House,Maybe You're the Reason,Maybe You're the Reason,7xKjdvYaJ1tvwNXRTAZs78,electropop,31,218936,0.621,0.395,0.762,95.014,-6.376,0.0328,2.71e-06,0.302,0.106,1
+Joji,YUKON (INTERLUDE),YUKON (INTERLUDE),6c1yUgFlhUHLAM9hSDkVBq,viral pop,69,141093,0.736,0.0728,0.71,82.482,-8.497,0.091,0.0351,0.395,0.383,1
+Caveboy,Caveboy,Something Like Summer,2ghUCNlKImZjdJSRlfz2wm,quebec indie,40,272933,0.462,0.309,0.888,124.976,-6.31,0.0473,0.136,0.109,0.00444,1
+Angel Olsen,MY WOMAN,Those Were the Days,67giNTAhvHyTPRAFVD5iit,alternative americana,35,259507,0.387,0.259,0.332,142.404,-11.996,0.0324,0.00242,0.0795,0.657,1
+Denzel Curry,Melt My Eyez See Your Future,X-Wing,41X9qar6SruZOPLIV7sgUw,dark trap,65,176000,0.787,0.424,0.675,119.988,-7.629,0.136,0,0.695,0.109,1
+Andrew Bird,Are You Serious,Roma Fade,5fMZ4cDsfhxR7gnFdtrWCy,baroque pop,55,243120,0.594,0.76,0.689,138.4,-8.395,0.0393,0.0173,0.0869,0.302,1
+Faye Webster,I Know I'm Funny haha,In A Good Way,2VYnlKxB8jpbCeLUjQsebc,atlanta indie,66,224680,0.587,0.302,0.286,71.123,-8.839,0.0315,0.0288,0.214,0.185,1
+Toro y Moi,MAHAL,Magazine,0HFy9wgmuePUSfwmjqhA6Y,alternative dance,45,191525,0.629,0.534,0.763,120.194,-6.796,0.127,6.01e-05,0.106,0.291,1
+Perfume Genius,Set My Heart On Fire Immediately,Without You,2sLkJQNpMoOhxmTO6U1scK,art pop,42,155547,0.649,0.831,0.755,133.516,-5.33,0.0289,0.00699,0.346,0.0669,1
+Taylor Swift,Daylight (Live From Paris),Daylight - Live From Paris,7ryS0xBZNYjQqql34GCkDp,pop,58,262320,0.49,0.217,0.228,75.858,-10.504,0.0361,0,0.733,0.794,1
+FKA twigs,CAPRISONGS,meta angel,6EeuY84I1Q3UJvpPN6iSzw,afrofuturism,56,259467,0.568,0.243,0.369,134.789,-8.758,0.127,1.77e-05,0.168,0.81,1
+Denzel Curry,ZUU,WISH FEAT. KIDDO MARV,0shSP8DgseLewHgAiMC4UL,dark trap,56,192013,0.655,0.622,0.766,95.017,-6.746,0.0736,0,0.425,0.234,1
+Men I Trust,Numb,Numb,6Ijmj8Z0L31hCp5pLZnT5U,indie pop,69,219340,0.783,0.65,0.303,138.816,-14.393,0.0527,0.945,0.109,0.811,1
+The Weeknd,Starboy,Party Monster,4F7A0DXBrmUAkp32uenhZt,canadian contemporary r&b,80,249213,0.573,0.218,0.63,77.525,-8.389,0.105,2.31e-05,0.259,0.189,1
+James Blake,Friends That Break Your Heart (Bonus),Famous Last Words,31H5dHBR7g381udIzXSKIE,electronica,32,256156,0.583,0.0398,0.192,75.534,-12.578,0.039,0.26,0.118,0.959,1
+Denzel Curry,Melt My Eyez See Your Future,The Last,3lKAIzNiCFL9cqPl3Glb5B,dark trap,56,262587,0.808,0.306,0.559,111.043,-9.007,0.0977,0,0.113,0.409,1
+Men I Trust,Show Me How,Show Me How,01TyFEZu6mHbffsVfxgrFn,indie pop,81,215111,0.791,0.544,0.267,165.99,-11.997,0.0415,0.534,0.102,0.674,1
+The Weeknd,Kiss Land,Kiss Land,5idmfDT06TjCQ1SPDsa5qh,canadian contemporary r&b,61,455333,0.324,0.4,0.852,121.881,-6.675,0.109,0,0.061,0.0415,1
+Magdalena Bay,Mercurial World,Mercurial World,30YK7cZlruEW0Clyxwk2nH,art pop,48,181174,0.574,0.334,0.673,119.987,-6.863,0.0479,0.00172,0.336,0.00424,1
+Kanye West,The College Dropout,Through The Wire,4mmkhcEm1Ljy1U9nwtsxUo,chicago rap,74,221227,0.571,0.66,0.739,83.089,-6.11,0.247,5.21e-06,0.158,0.00865,1
+Djo,Twenty Twenty,Roddy,5hS8s1Vf4CeSRBT1bTWa39,modern rock,67,252987,0.558,0.674,0.522,179.982,-9.161,0.0278,0.0273,0.0686,0.112,1
+Drake,Take Care (Deluxe),Crew Love,0V4l4GQhgnWQGtCWpvA7va,canadian hip hop,72,208813,0.418,0.294,0.546,160.152,-9.057,0.238,0,0.229,0.227,1
+Magdalena Bay,Mercurial World,Secrets (Your Fire),3tgHGoK5ItQv2q2yqggxlb,art pop,54,245897,0.691,0.826,0.827,107.997,-5.573,0.0402,0.637,0.416,0.00177,1
+James Blake,Friends That Break Your Heart (Bonus),Coming Back (feat. SZA),3lRx4jcfc88j54ZU2h2G60,electronica,36,195905,0.653,0.102,0.496,86.013,-7.262,0.0868,0.274,0.151,0.625,1
+FKA twigs,CAPRISONGS,careless (feat. daniel caesar),3xqtvSfofDvSMVwwSbuvKi,afrofuturism,56,216760,0.706,0.26,0.395,118.128,-6.952,0.0588,2.16e-05,0.203,0.724,1
+Father John Misty,Chloë and the Next 20th Century,Q4,2RCSJR2v4LXlkW6o4RD5R2,chamber pop,40,297947,0.557,0.426,0.73,95.08,-5.489,0.0234,0.000155,0.204,0.0624,1
+Vince Staples,Big Fish Theory,Yeah Right,35tWhD29yvWwB0IDRr6zsL,conscious hip hop,54,188947,0.734,0.285,0.468,118.001,-9.029,0.0912,0,0.382,0.018,1
+Porter Robinson,Nurture,Look at the Sky,5lXNcc8QeM9KpAWNHAL0iS,complextro,58,309986,0.568,0.385,0.564,115.059,-8.231,0.0273,0.000127,0.0766,0.0105,1
+Lana Del Rey,Honeymoon,Freak,3sYDVtqO35oRSOIMx7dOqR,art pop,67,295093,0.287,0.109,0.43,93.984,-10.014,0.033,0.000579,0.32,0.269,1
+Perfume Genius,No Shape,Slip Away,13yxz52EwElyue9PLrqcZY,art pop,53,165330,0.603,0.572,0.509,136.592,-6.824,0.0311,2.91e-05,0.0627,0.374,1
+The Last Shadow Puppets,Everything You've Come To Expect (Deluxe Edition),"Sweet Dreams, TN",1W0OCrMsRP1SLTEdw3JwEz,baroque pop,66,236253,0.282,0.477,0.566,112.362,-6.924,0.0291,0,0.38,0.000878,1
+Kanye West,Graduation,Flashing Lights,5TRPicyLGbAF2LGBFbHGvO,chicago rap,85,237507,0.639,0.43,0.628,90.482,-7.578,0.0399,0,0.386,0.0381,1
+Kero Kero Bonito,Bonito Generation,Picture This,7wz3rjLXic7K4LAKdlin2t,escape room,35,204497,0.744,0.667,0.821,106.976,-4.548,0.0368,6.22e-05,0.112,0.00138,1
+JPEGMAFIA,LP!,THOT'S PRAYER!,0O0q3mDpIZH1BJXBEH5ad8,alternative hip hop,45,187758,0.697,0.433,0.65,123.92,-7.27,0.0996,0,0.354,0.456,1
+FKA twigs,CAPRISONGS,minds of men,6rjnUkLj645A70RfJnCnPI,afrofuturism,47,204533,0.627,0.183,0.519,130.789,-9.349,0.289,0.00183,0.102,0.798,1
+James Blake,Assume Form,Can't Believe The Way We Flow,03NtFY8KBtBsLQg2E9rVDI,electronica,38,267200,0.259,0.29,0.536,143.948,-10.309,0.0367,0.000501,0.432,0.705,1
+Kero Kero Bonito,Time 'n' Place,Swimming,3PlW2cNr5pmZCXcf1Vm33h,escape room,38,199498,0.679,0.6,0.609,119.998,-5.512,0.029,0,0.0972,0.686,1
+Harry Styles,Harry's House,Late Night Talking,1qEmFfgcLObUfQm0j1W2CK,pop,90,177955,0.714,0.901,0.728,114.996,-4.595,0.0468,0,0.106,0.298,1
+Helena Deland,"Altogether Unaccompanied, Vol. I",There Are a Thousand,6fGBrrEcpArzSxiiGv1wof,art pop,27,216243,0.642,0.432,0.464,138.112,-9.544,0.0269,0.154,0.148,0.825,1
+Japanese Breakfast,Jubilee,Be Sweet,0dpyzcT3RMNNSd2xKBf35I,art pop,65,195371,0.653,0.62,0.877,109.985,-5.82,0.0275,1.04e-05,0.32,0.0102,1
+Sky Ferreira,"Night Time, My Time",24 Hours,2XPxacir3WoMtJ2pbTd240,art pop,44,244133,0.519,0.245,0.874,108.242,-3.554,0.0391,0,0.276,0.031,1
+KAYTRANADA,Intimidated,Intimidated (feat. H.E.R.),0dFdGPVLs3k0z9ezYWZzUa,escape room,71,207840,0.738,0.342,0.75,112.009,-3.654,0.219,0.00976,0.174,0.0167,1
+Steve Lacy,Gemini Rights,Helmet,0DmkBOGgEWMbUJlL6VwwF2,afrofuturism,73,201547,0.612,0.763,0.675,97.04,-6.518,0.0231,0,0.217,0.0994,1
+Taylor Swift,folklore,august,3hUxzQpSfdDqwM3ZTFQY0K,pop,84,261923,0.532,0.403,0.623,89.937,-9.208,0.0331,7.28e-05,0.0925,0.538,1
+Father John Misty,"I Love You, Honeybear",Chateau Lobby #4 (in C for Two Virgins),3wfF0Nw234zHY1vdIWIc2g,chamber pop,57,170827,0.446,0.8,0.807,188.094,-5.222,0.041,0,0.226,0.215,1
+Flume,The Difference,The Difference,4nlvKIIetOWGIMyhjQXgOZ,australian dance,72,139663,0.56,0.424,0.865,159.96,-1.148,0.0909,0.000153,0.083,0.255,1
+Jack Harlow,Sweet Action,I WANNA SEE SOME ASS (feat. jetsonmade),2aWVaW1p2kUc5yuKwBmRJi,deep underground hip hop,74,125302,0.899,0.865,0.691,107.951,-7.554,0.0497,0.000451,0.135,0.18,1
+Mitski,Lush,Liquid Smooth,3XCveEutwTaDiekRkkfdp9,brooklyn indie,74,169773,0.424,0.124,0.342,76.235,-9.469,0.0339,0,0.136,0.838,1
+Harry Styles,Harry's House,Cinema,35TyJIMR3xRouUuo2sjS6v,pop,79,243508,0.829,0.896,0.644,105.993,-7.696,0.0427,0.0511,0.0944,0.354,1
+Rina Sawayama,SAWAYAMA,Comme Des Garçons (Like The Boys),43bYs8QkPdCdy5esfnmU1T,art pop,61,181506,0.724,0.645,0.715,119.162,-3.776,0.116,0.00276,0.441,0.0246,1
+The Weeknd,After Hours,Escape From LA,1sOW4PuG5X3Ie3EXUhAopJ,canadian contemporary r&b,71,355960,0.404,0.168,0.524,145.74,-8.996,0.0593,0.00316,0.199,0.0456,1
+Kanye West,Late Registration,Touch The Sky,2dxjKgT0li4qBI3QwuN9Ih,chicago rap,72,236600,0.552,0.554,0.846,98.56,-4.912,0.342,0,0.309,0.0114,1
+Faye Webster,I Know I'm Funny haha,Better Distractions,3CmcswzHOACDjooV1KLULN,atlanta indie,52,249985,0.701,0.566,0.52,96.372,-9.541,0.0243,0.0147,0.0916,0.0654,1
+Angel Olsen,All Mirrors,Chance,6oDmpEgamGo6r3YRrNRQM8,alternative americana,44,359467,0.199,0.246,0.351,182.463,-8.997,0.0303,0.000366,0.281,0.183,1
+Gesaffelstein,Hyperion,Lost in the Fire (feat. The Weeknd),2vXKRlJBXyOcvZYTdNeckS,dark clubbing,85,202093,0.658,0.166,0.671,100.966,-12.21,0.0363,0.000927,0.115,0.0933,1
+The Neighbourhood,Chip Chrome & The Mono-Tones,Devil's Advocate,4XfI7M5gLwEY84gYiH4RDD,modern alternative rock,71,186307,0.662,0.864,0.681,98.004,-8.152,0.0315,0.139,0.508,0.0321,1
+Weyes Blood,Titanic Rising,Everyday,2VYqgye3Wf9ySE4qYM3iJn,art pop,52,307013,0.483,0.423,0.57,112.975,-7.245,0.0308,4.43e-05,0.0938,0.269,1
+Taylor Swift,Fearless (Taylor's Version),Tell Me Why (Taylor’s Version),0k0vFacOHNuArLWMiH60p7,pop,63,200576,0.578,0.541,0.909,100.023,-3.669,0.0628,0,0.333,0.0222,1
+mxmtoon,dawn,almost home,74tVtfIGVQ6kxTjRRhH464,alt z,29,208813,0.554,0.426,0.483,138.041,-5.936,0.0263,1.4e-06,0.327,0.297,1
+Rich Brian,The Sailor,Drive Safe,6eDfe957aV4sqGnDhlSikJ,indonesian hip hop,62,240118,0.635,0.414,0.312,98.017,-8.134,0.0265,0,0.138,0.635,1
+Glass Animals,Dreamland,Hot Sugar,0r9OkYadpBgYA2bkkrRSsI,gauze pop,57,234866,0.705,0.34,0.487,88.616,-9.456,0.0587,0.028,0.303,0.0837,1
+Dayglow,Fuzzybrain,Hot Rod,0zePbRMJ9sd7wsZRlbPQua,austindie,53,204014,0.707,0.832,0.767,139.985,-7.072,0.0323,0.000295,0.169,0.0279,1
+Olivia Rodrigo,drivers license,drivers license,7lPN2DXiMsVn7XUKtOW1CS,pop,29,242014,0.585,0.132,0.436,143.874,-8.761,0.0601,1.31e-05,0.105,0.721,1
+Doja Cat,Planet Her,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,dance pop,83,210560,0.664,0.194,0.609,130.041,-6.509,0.0707,0,0.0926,0.304,1
+Ruel,Free Time,Face To Face,2QdVcmVPIxW826rRJDf58l,australian alternative pop,62,203747,0.711,0.356,0.634,90.04,-4.351,0.0668,0,0.103,0.139,1
+beabadoobee,Patched Up,If You Want To,7I1kle4TNmkfednJDKo8GR,bedroom pop,63,223638,0.666,0.37,0.527,115.979,-5.851,0.034,9.02e-05,0.132,0.109,1
+Japanese Breakfast,Jubilee,Paprika,7hINOWdRK2rAWDKmjXTHth,art pop,0,220316,0.505,0.413,0.705,120.073,-5.477,0.0333,0,0.304,0.0209,1
+Bruno Mars,Skate,Skate,2sXf2JdbB2GlNju00kw9WE,dance pop,4,203123,0.708,0.698,0.598,112.027,-8.365,0.0291,0,0.17,0.037,1
+Troye Sivan,In A Dream,Easy,3gzIK2dGSVvPBiohsTwEWZ,australian pop,62,226781,0.639,0.616,0.569,142.967,-7.236,0.0487,0.000169,0.108,0.0581,1
+Taylor Swift,Love Story (Taylor’s Version),Love Story (Taylor’s Version),3CeCwYWvdfXbZLXFhBrbnf,pop,75,235767,0.626,0.416,0.79,119.082,-4.302,0.0311,3.97e-06,0.0989,0.135,1
+Panic! At The Disco,A Fever You Can't Sweat Out,But It's Better If You Do,2ZqTtndqAZDRAWw2vgZwQK,modern rock,58,205752,0.467,0.674,0.848,170.038,-3.063,0.0716,0,0.29,0.0617,1
+Bruno Mars,Leave The Door Open,Leave The Door Open,7MAibcTli4IisCtbHKrGMh,dance pop,15,242096,0.586,0.719,0.616,148.088,-7.964,0.0324,0,0.0927,0.182,1
+Glass Animals,How To Be A Human Being,Take A Slice,37adYGaYaAWTGhBaOzX4Fh,gauze pop,69,229718,0.623,0.63,0.661,151.97,-7.0,0.1,0.000229,0.267,0.0212,1
+khai dreams,Nice Colors,All I Need,19aYshJ803a6F4BXQSPrwR,indie pop,35,147967,0.76,0.48,0.559,74.954,-7.274,0.5,0,0.367,0.508,1
+Raveena,Headaches,Headaches,4MNu1bSmyV3S4Y2MJMGrrP,alternative r&b,53,311537,0.442,0.233,0.528,132.932,-9.269,0.0562,0.029,0.0944,0.565,1
+Taylor Swift,evermore (deluxe version),right where you left me - bonus track,3zwMVvkBe2qIKDObWgXw4N,pop,77,245027,0.581,0.645,0.619,137.915,-6.524,0.0282,0.000106,0.117,0.769,1
+The Japanese House,Saw You In A Dream,Saw You In A Dream,0U3u0HdRQjD8mAMYBak4Ok,electropop,61,208280,0.607,0.676,0.451,94.054,-8.206,0.0286,0,0.19,0.0604,1
+Last Dinosaurs,Wellness,Stream,3WvBluqSNpfzhLjPA4YRpv,australian indie,46,231587,0.452,0.681,0.886,132.138,-5.524,0.0856,0,0.0944,0.00026,1
+Mt. Joy,Rearrange Us,Strangers,3wcluZHyfuTzIXHfwXVAIE,indie folk,65,193187,0.564,0.218,0.636,101.913,-8.136,0.0418,0.0224,0.0807,0.739,1
+Dre'es,Warm (feat. Mia),Warm (feat. Mia),3kBofOTKMUZ62a311eUwvx,bedroom soul,47,255466,0.662,0.434,0.297,94.023,-14.525,0.0301,0.108,0.119,0.888,1
+Beach Fossils,Somersault,Down the Line,1KPDAA9zyJXcEDvFW5inYi,brooklyn indie,0,158474,0.603,0.533,0.743,162.265,-6.569,0.0395,0.00392,0.147,0.24,1
+Dennis.,Dream State,Dream State,56FPFlRGOe6LIbmqC70gtu,,39,288000,0.776,0.264,0.295,119.958,-12.395,0.0327,2.93e-05,0.2,0.588,1
+Maude Latour,One More Weekend,One More Weekend,4jNRzwGdqkcF11lAvdVHu2,alt z,0,142830,0.619,0.527,0.563,130.981,-6.922,0.123,0,0.213,0.54,1
+The Strokes,The New Abnormal,The Adults Are Talking,5ruzrDWcT0vuJIOMW7gMnW,alternative rock,79,309053,0.593,0.649,0.749,164.959,-5.67,0.0475,0.106,0.314,0.0113,1
+Childish Gambino,Because the Internet,"III. Telegraph Ave. (""Oakland"" by Lloyd)",0VXfZi7XhfJnuBvF6XiypU,atl hip hop,42,210673,0.496,0.597,0.693,129.929,-9.576,0.247,0.0261,0.142,0.159,1
+Criibaby,Some Kinda Voodoo,Some Kinda Voodoo,5oWlxCWMk6fBeCHj3FLhkR,,10,161918,0.789,0.444,0.332,145.965,-7.165,0.0435,0.00295,0.0804,0.876,1
+Ryan Beatty,Boy in Jeans,Cupid,7d6MywFjsWZuDdpGOa6orT,bedroom soul,51,175324,0.465,0.185,0.259,91.706,-8.028,0.0356,0,0.118,0.832,1
+Nick Leng,LEMONS,LEMONS,0xQSm6paW77aQ3OxHxqiYv,vapor soul,39,260939,0.585,0.204,0.55,130.986,-9.355,0.032,0.00194,0.324,0.135,1
+Modern Baseball,Sports,Re-Do,5c8nmgU5vm9CyupuKmRaTq,alternative emo,10,131000,0.596,0.398,0.812,92.551,-6.076,0.079,0.00174,0.189,0.0257,1
+Glass Animals,How To Be A Human Being,The Other Side Of Paradise,0rRjGruFonCGOt0S5zAJNQ,gauze pop,72,320654,0.689,0.568,0.338,128.012,-7.634,0.0629,5.7e-05,0.0649,0.349,1
+Ricky Montgomery,Line Without a Hook (feat. mxmtoon),Line Without a Hook (feat. mxmtoon),4dHdqpGaO9km4TEw9nNQSR,indie pop,63,251281,0.589,0.503,0.605,95.084,-7.237,0.0273,0,0.332,0.0658,1
+Quadeca,Voice Memos,Uh Huh!,4nchIkVWKBFzOvmlisTHdR,meme rap,33,135620,0.683,0.497,0.716,155.691,-7.597,0.311,0,0.222,0.0565,1
+Joji,Sanctuary,Sanctuary,3xaugmCyXrVkrDTXbFkMW3,viral pop,65,180019,0.552,0.316,0.65,167.788,-7.199,0.128,0.000275,0.372,0.422,1
+Cautious Clay,Cheesin',"Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",6lIRYe72fn1pf7TNqfI0ul,indie r&b,60,138000,0.818,0.968,0.623,120.104,-5.901,0.043,0,0.112,0.201,1
+Beach House,Depression Cherry,Space Song,7H0ya83CMmgFcOhw0UB6ow,baltimore indie,81,320467,0.508,0.601,0.792,147.067,-7.311,0.0297,0.124,0.145,0.229,1
+Lunar Vacation,Swell,Swimming,0qZngsBTYM37fevbe03IlX,atlanta indie,47,280251,0.435,0.366,0.404,154.959,-13.252,0.0266,0.351,0.117,0.0366,1
+Declan McKenna,What Do You Think About the Car?,Brazil,4sNG6zQBmtq7M8aeeKJRMQ,indie pop,80,252307,0.687,0.665,0.617,121.079,-5.213,0.0287,1.27e-05,0.0898,0.0941,1
+BROCKHAMPTON,BUZZCUT (feat. Danny Brown),BUZZCUT (feat. Danny Brown),3uOIoS7lOvzQAtbbyttHp6,boy band,47,201160,0.717,0.252,0.758,91.983,-5.576,0.268,7.08e-06,0.293,0.0791,1
+Alec Benjamin,These Two Windows,Jesus in LA,0uLPKDuIhkIhttiwezNdiG,alt z,65,171539,0.787,0.706,0.558,94.049,-5.237,0.0414,0,0.347,0.664,1
+Beach Weather,Chit Chat,Chit Chat,08BwE47bKpz62bfSiDXO2w,modern rock,15,200207,0.514,0.966,0.978,142.122,-2.779,0.056,0.168,0.328,0.00025,1
+Mac Miller,GO:OD AM,ROS,388jD8ko9cvFM9cd9TYDrl,hip hop,66,343213,0.535,0.284,0.448,120.554,-8.919,0.175,0,0.376,0.601,1
+Joji,Nectar,Ew,7xcUWyLh6fIMsYjoVI7NnZ,viral pop,70,207710,0.48,0.0376,0.373,114.078,-9.297,0.0278,0.067,0.12,0.804,1
+"Tyler, The Creator",CALL ME IF YOU GET LOST,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),3EG9FJ0ToLfgnc1IG2Z1wz,hip hop,76,588139,0.468,0.39,0.652,140.223,-4.912,0.0722,0.000318,0.55,0.333,1
+Houses,Drugstore Heaven,Fast Talk,7DrvXVuYtvFZjM8AymQlel,chillwave,50,259947,0.597,0.351,0.503,140.023,-7.732,0.0377,0.11,0.205,0.545,1
+Fleece,Love Song for the Haters,Love Song for the Haters,5PNmLOkhsm69IfOdHknhmR,neo-psychedelic,32,278968,0.362,0.318,0.519,117.638,-7.032,0.0359,0.000582,0.0872,0.606,1
+Taylor Swift,Fearless (Taylor's Version),Don’t You (Taylor’s Version) (From The Vault),4uuEGH5SVuzkkSFjo2DEiY,pop,64,208609,0.563,0.405,0.473,101.934,-11.548,0.0503,1.2e-05,0.109,0.514,1
+Wallows,Nothing Happens,Ice Cold Pool,2XzAcJx3qBDnS1hD2vNwbh,indie pop,50,237653,0.572,0.356,0.662,103.025,-6.041,0.0316,0,0.159,0.00817,1
+88rising,Head In The Clouds,History,4TwVtW8hS5LyLoDtJGpUOg,asian american hip hop,64,207308,0.554,0.414,0.589,74.982,-8.163,0.231,0.000257,0.0982,0.613,1
+Bakar,Will You Be My Yellow?,Stop Selling Her Drugs (feat. Dominic Fike),4uBQDAzZ881KYZvW7ZInUn,uk alternative hip hop,62,173349,0.847,0.764,0.275,85.007,-6.44,0.113,0,0.0737,0.61,1
+Joji,Nectar,NITROUS,1RTYj0DKungYDHtgFQRtmx,viral pop,63,131719,0.827,0.381,0.549,127.992,-8.188,0.0343,0.689,0.124,0.556,1
+Harry Styles,Fine Line,She,6SQLk9HSNketfgs2AyIiMs,pop,75,362653,0.535,0.457,0.521,140.026,-5.942,0.0272,0.371,0.19,0.000532,1
+Steve Lacy,Dark Red,Dark Red,37y7iDayfwm3WXn5BiAoRk,afrofuturism,66,173104,0.603,0.775,0.783,172.041,-4.023,0.062,7.96e-06,0.119,0.449,1
+Jelani Aryeh,Stella Brown,Stella Brown,4gwltSjdrzKtKz9dlk2Wja,bedroom soul,59,187415,0.724,0.591,0.48,125.007,-7.537,0.0342,0.0772,0.289,0.211,1
+Glass Animals,ZABA,Gooey,1gk3FhAV07q9Jg77UxnVjX,gauze pop,70,289307,0.487,0.106,0.369,183.114,-13.424,0.0406,3.75e-05,0.0925,0.736,1
+DEAN,love,love,6wcRv0UBvEH9NCIA3IVyQs,k-pop,57,258227,0.582,0.37,0.67,109.993,-6.69,0.0483,0.000669,0.105,0.00125,1
+Daniel Caesar,Get You - Single,Japanese Denim,1boXOL0ua7N2iCOUVI1p9F,canadian contemporary r&b,77,270847,0.707,0.345,0.238,124.156,-8.818,0.0379,2.42e-06,0.0842,0.0905,1
+Tim Atlas,Together Lonely,Tangerine,2EgfLUS0jNiujIWc3ZLEtn,indie poptimism,59,175861,0.776,0.453,0.378,135.981,-8.035,0.0322,0.00187,0.11,0.435,1
+Jakob,Velvet Light,Velvet Light,41o2ydrj7Xm9Yt5odIBqq4,indie garage rock,65,141587,0.67,0.513,0.419,77.919,-10.523,0.0751,0.135,0.0976,0.75,1
+Glass Animals,Dreamland,Helium,1yOc6FBOVD6zBwOMxiSEEv,gauze pop,57,328232,0.289,0.0477,0.307,96.516,-16.036,0.0452,0.275,0.255,0.854,1
+Jean Dawson,Bruiseboy,Bruiseboy,5DmNUZcVPIWeIlTJaRQSg5,modern indie pop,31,203227,0.512,0.347,0.917,121.99,-3.994,0.0755,0.427,0.353,0.0471,1
+Troye Sivan,Blue Neighbourhood (Deluxe),SUBURBIA,5PoWbm2gxIIgg7Ykx9oY8S,australian pop,45,233760,0.491,0.361,0.622,77.928,-5.925,0.104,0,0.107,0.019,1
+LAUNDRY DAY,HOMESICK,FRIENDS,3usbnvDFtOhY09cRNar8Zg,bedroom pop,50,266472,0.522,0.512,0.554,87.051,-6.978,0.029,1.04e-05,0.155,0.49,1
+keshi,always,drunk,6D6HVKe7Qu3imn4zzJD0W9,chill r&b,72,227032,0.691,0.306,0.389,104.952,-8.247,0.0367,0,0.0941,0.765,1
+The 1975,A Brief Inquiry Into Online Relationships,Be My Mistake,18UsAG7SfOQ5sxJEdjAMH0,modern alternative rock,73,256689,0.572,0.0949,0.155,109.923,-14.405,0.0344,0.000137,0.0906,0.835,1
+NIKI,Lose,Lose,7rgjkzZBhBjObaYsvq8Ej0,indonesian r&b,55,256001,0.41,0.22,0.316,133.288,-8.13,0.029,0,0.124,0.846,1
+Omar Apollo,Stereo,Erase,7AszVgcyqnhmIzo6TutnCd,bedroom pop,33,236794,0.657,0.575,0.376,84.905,-6.534,0.0463,2.54e-05,0.272,0.688,1
+Last Dinosaurs,Yumeno Garden,Sense,00TkTVBSCQ3fmnZKMIwKRy,australian indie,0,259837,0.516,0.639,0.918,108.988,-5.338,0.0419,0.00075,0.219,0.001,1
+Frank Ocean,Blonde,Self Control,5GUYJTQap5F3RDQiCOJhrS,hip hop,76,249668,0.581,0.452,0.21,80.099,-10.426,0.0321,0,0.369,0.768,1
+NIKI,Zephyr,Around,6tv9CzrMUHQFrm9VHHO1hv,indonesian r&b,57,183547,0.485,0.153,0.125,130.234,-16.486,0.0438,3.88e-06,0.108,0.887,1
+A$AP Rocky,AT.LONG.LAST.A$AP,"Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",2N3U8uTYhjX2KwGT0pf5x0,east coast hip hop,77,260987,0.394,0.335,0.661,149.818,-8.684,0.192,0,0.343,0.00996,1
+Rich Brian,1999,Love In My Pocket,2NZ2hBqes4aKSmt5Gsxnub,indonesian hip hop,45,223093,0.832,0.77,0.615,113.017,-7.948,0.0351,0,0.11,0.02,1
+Lana Del Rey,Norman Fucking Rockwell!,Doin' Time,0Oqc0kKFsQ6MhFOLBNZIGX,art pop,83,202193,0.641,0.523,0.559,144.982,-11.132,0.0355,0.00402,0.0937,0.404,1
+Ryan Beatty,Dreaming of David,In The End,5lDPr9m2SCnDCrCPX6o0xz,bedroom soul,35,167881,0.577,0.233,0.303,129.082,-12.328,0.0309,0.539,0.0936,0.855,1
+Your Grandparents,Been Cold,Been Thru,3i5yWfgpkThGz3VyKSEWmI,indie r&b,24,192211,0.815,0.748,0.252,59.996,-11.501,0.0885,1.83e-05,0.0775,0.384,1
+Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",When The Sun Goes Down,0ZRrJTPXDToRJ2iLo9oLrW,garage rock,61,202133,0.348,0.407,0.875,169.152,-4.758,0.199,0,0.117,0.0341,1
+BROCKHAMPTON,"ROADRUNNER: NEW LIGHT, NEW MACHINE",COUNT ON ME,0hprLLUDMgFU0nL4yVCWTg,boy band,50,155200,0.782,0.522,0.497,77.488,-5.415,0.286,0,0.209,0.0391,1
+WILLOW,WILLOW,Time Machine,1jVjOcs7QeQZJXScbqvofI,afrofuturism,70,143640,0.606,0.405,0.532,81.332,-6.076,0.0416,0,0.132,0.44,1
+Olivia Rodrigo,deja vu,deja vu,61KpQadow081I2AsbeLcsb,pop,19,215508,0.439,0.172,0.61,181.088,-7.236,0.116,1.07e-05,0.341,0.593,1
+UMI,Introspection Reimagined,Where I Wander Reimagined,6Q1gCK5nXaYeHjhq1eQcMx,alternative r&b,29,320120,0.485,0.171,0.375,106.088,-8.631,0.0385,3.62e-05,0.405,0.432,1
+Joji,BALLADS 1,I'LL SEE YOU IN 40,606F3qdYCXtDVtKN53YsuW,viral pop,60,253781,0.411,0.0321,0.377,139.881,-9.553,0.0296,0.765,0.222,0.347,1
+Still Corners,Strange Pleasures,The Trip,6mxTH1ebYmEQyWAbSY1LeG,chillwave,59,374240,0.697,0.42,0.736,120.0,-6.594,0.0384,0.00878,0.124,0.167,1
+Mac DeMarco,2,Freaking Out the Neighborhood,25SJaCCPiosugnlY53VhRG,edmonton indie,1,173889,0.565,0.847,0.832,143.302,-5.751,0.108,0.0291,0.386,0.0639,1
+Omar Apollo,Brakelights,Brakelights,43IjtK3IEEyTM5Ek32a2Pr,bedroom pop,31,168387,0.695,0.257,0.42,124.019,-7.735,0.0385,0.0222,0.0839,0.597,1
+slowthai,TYRON,push (feat. Deb Never),1TXydwDv0VSV92ijrUNBfN,rap,55,139600,0.772,0.323,0.542,125.321,-9.855,0.0926,0,0.21,0.69,1
+Olivia Rodrigo,SOUR,traitor,5CZ40GBx1sQ9agT82CLQCT,pop,87,229227,0.38,0.0849,0.339,100.607,-7.885,0.0338,0,0.12,0.691,1
+Lil Nas X,INDUSTRY BABY (feat. Jack Harlow),INDUSTRY BABY (feat. Jack Harlow),27NovPIUIRrOZoCHxABJwK,lgbtq+ hip hop,85,212000,0.736,0.894,0.704,149.995,-7.409,0.0615,0,0.0501,0.0203,1
+The 1975,"I like it when you sleep, for you are so beautiful yet so unaware of it",Somebody Else,5hc71nKsUgtwQ3z52KEKQk,modern alternative rock,74,347520,0.61,0.472,0.788,101.045,-5.724,0.0585,0.0142,0.153,0.195,1
+Mac Miller,Swimming,2009,6dFn6my1sHK2bcf23GlHwM,hip hop,69,347987,0.533,0.173,0.496,155.158,-9.363,0.517,0.000164,0.0969,0.77,1
+Last Dinosaurs,Yumeno Garden,Italo Disco,1i2BT8khCCaPqIxNhACQ6g,australian indie,0,226303,0.577,0.798,0.797,105.017,-6.013,0.0246,0.000485,0.207,0.0219,1
+Hiatus Kaiyote,Tawk Tomahawk,Nakamarra (feat. Q-Tip),12v5GBM74fB8WsHJPQRTIe,alternative r&b,56,275320,0.552,0.324,0.531,91.573,-6.767,0.125,5.21e-05,0.11,0.656,1
+Rex Orange County,Apricot Princess,4 Seasons,3AbV3JF0bJAZXeHEJZfpke,bedroom pop,40,301773,0.505,0.17,0.458,123.922,-7.87,0.0392,0,0.116,0.217,1
+lovelytheband,conversations with myself about you,loneliness for love,2YgYtlYQSuaUtv9dx2IjzL,indie poptimism,46,235847,0.597,0.733,0.95,133.022,-4.62,0.0354,5.47e-06,0.162,0.0111,1
+Tobey Lynn,SUNFLOWER GIRL,SUNFLOWER GIRL,4jKySfy1yg9USFbSNRbYdZ,chill r&b,33,219000,0.749,0.354,0.495,105.944,-11.171,0.0361,0.000678,0.439,0.0451,1
+Cocteau Twins,Heaven or Las Vegas,Cherry-coloured Funk,37pKTyMwalomKCZjxTc2QZ,alternative rock,68,192467,0.49,0.339,0.652,90.085,-5.813,0.0274,6.24e-05,0.0991,0.00196,1
+Steve Lacy,C U Girl,C U Girl,6FBzhcfgGacfXF3AmtfEaX,afrofuturism,79,129698,0.414,0.409,0.473,100.0,-8.911,0.116,0.0523,0.128,0.663,1
+Rex Orange County,Pony,Laser Lights,1pi6ZMcC30dpQSOQHfc4QE,bedroom pop,47,131080,0.629,0.2,0.403,86.216,-9.273,0.107,3.17e-05,0.112,0.775,1
+Stanaj,The Preview,Ain't Love Strange,2JXMbStwQxqfSo5DiiV8nj,,36,200693,0.348,0.216,0.508,159.866,-6.884,0.0603,0,0.121,0.254,0
+Martin Garrix,Don't Look Down (feat. Usher),Don't Look Down (feat. Usher),5M9jOReAKGZ2AttVefFjTY,dance pop,63,223140,0.575,0.377,0.831,127.991,-5.972,0.0356,0.000449,0.111,0.00406,0
+Lemaitre,Playing To Lose,Playing To Lose - Acoustic,2FWHgSAdc6FYVGuSFLHCQU,norwegian pop,24,193386,0.484,0.484,0.46,143.662,-5.406,0.0336,0,0.156,0.492,0
+MAX,Hell's Kitchen Angel,Hell's Kitchen Angel,5DULpe1tGzudQB7LHCXlEr,dance pop,28,223159,0.782,0.554,0.656,118.046,-5.62,0.031,1.54e-05,0.0998,0.0135,0
+Frank Pole,Anything (Acoustic Version),Anything - Acoustic Version,3x3PXWqotZiZ9Dk63kuGR1,deep tropical house,37,182279,0.516,0.354,0.324,108.177,-7.38,0.0342,0,0.108,0.947,0
+Christina Grimmie,With Love,I Bet You Don't Curse God,6PjVB3PEoiMscyw7HD2lKO,post-teen pop,0,231547,0.471,0.147,0.329,77.117,-7.445,0.0363,4.36e-06,0.0858,0.646,0
+Carah Faye,Don't Say a Word,Don't Say a Word,2Web6iwmqVfNcCMdJp15z2,,14,210009,0.579,0.158,0.78,107.015,-4.795,0.0411,2.81e-05,0.178,0.00915,0
+Olly Murs,24 HRS (Acoustic) - EP,Flaws - Acoustic,4mGNuXRv0FU72I9CaIwQ9E,dance pop,0,188973,0.654,0.315,0.34,132.154,-9.138,0.0641,0,0.103,0.825,0
+Skylar Grey,The Buried Sessions Of Skylar Grey,Words,0Vt9I0OjHeyAjlpYH1Gz91,piano rock,37,306787,0.503,0.2,0.325,147.58,-7.976,0.0282,0.000119,0.0993,0.862,0
+Martin Garrix,Scared to Be Lonely,Scared to Be Lonely,3ebXMykcMXOcLeJ9xZ17XH,dance pop,78,220883,0.584,0.195,0.54,137.972,-7.786,0.0576,0,0.261,0.0895,0
+AJR,What Everyone's Thinking,Weak,45iMRHmfLZu3yjdZ8P5e3t,modern rock,0,202194,0.672,0.656,0.642,123.984,-4.552,0.0461,0,0.137,0.127,0
+Julia Michaels,Issues,Issues,6AeQlMyRzvSl1nkFztZyKl,alt z,58,176347,0.722,0.451,0.417,113.965,-6.825,0.0618,0,0.0612,0.39,0
+Fall Out Boy,Save Rock And Roll,Just One Yesterday,0l2p5mDOP3czJ2FpD6zWie,emo,51,244720,0.508,0.587,0.907,104.997,-3.443,0.0565,6.83e-05,0.221,0.0423,0
+MAX,Hell's Kitchen Angel,Home,747JUFQOb9JL88fCbiiFY6,dance pop,30,188499,0.612,0.49,0.501,143.839,-6.764,0.0433,0,0.0458,0.0202,0
+Ed Sheeran,÷ (Deluxe),Happier,2RttW7RAu5nOAfq6YFvApB,pop,80,207520,0.522,0.236,0.385,89.792,-7.355,0.0288,0,0.135,0.536,0
+American Authors,What We Live For,I'm Born To Run,6zDs6zI94L761vd0cVScTT,indie poptimism,66,206920,0.62,0.675,0.93,126.041,-5.615,0.0486,0,0.0788,0.0662,0
+Robin Schulz,Shed a Light,Shed a Light,1cG0umU5TKStygKsPFZ9pY,dance pop,60,191379,0.483,0.58,0.787,122.058,-5.244,0.102,0,0.257,0.112,0
+Starley,Call On Me,Call On Me,52tbWCKaMaSLpYNw71XO9l,aussietronica,41,161633,0.791,0.5,0.654,97.995,-7.109,0.0417,0,0.0839,0.126,0
+MAX,Hell's Kitchen Angel,Lights Down Low,5A6BJLZArq1MPjsnmcuk5f,dance pop,63,223847,0.623,0.594,0.493,81.019,-7.727,0.0338,0,0.104,0.0632,0
+Guy Sebastian,Set in Stone,Set in Stone,2WClkswZoseo6IHrwArbGm,australian pop,0,220958,0.47,0.0705,0.294,78.248,-8.272,0.0306,1.28e-05,0.102,0.577,0
+Stanaj,The Preview,Goddess,2NJiahCdbm7Tzun6GTSeg3,,25,223933,0.548,0.304,0.62,92.013,-5.931,0.0283,0,0.104,0.219,0
+Stanaj,From A Distance,Bad Woman,5mMk7iHdV5Jmm4LAR5HMMf,,23,187400,0.607,0.306,0.819,98.043,-5.448,0.0753,0,0.32,0.00152,0
+Christina Grimmie,With Love,Tell My Mama,6je9vAapQRxdEbuV6VTcJj,post-teen pop,0,199073,0.646,0.896,0.911,133.018,-3.065,0.0382,1.08e-05,0.35,0.0146,0
+Astrid S,Astrid S,Jump,44QPo940wumNDeqL8v6AMu,alt z,42,193827,0.551,0.175,0.61,171.978,-9.449,0.0926,8.15e-06,0.353,0.0196,0
+Lindsey Stirling,Brave Enough,Something Wild (feat. Andrew McMahon in the Wilderness),4d0m6f46k1bX6ZQtfmg1Uj,bow pop,44,224510,0.561,0.458,0.745,106.046,-4.824,0.0418,0,0.258,0.327,0
+Skylar Grey,"I Know You (From The ""Fifty Shades Of Grey"" Soundtrack)","I Know You - From The ""Fifty Shades Of Grey"" Soundtrack",1Ic5yiebfz4GfOTfJnzZ3W,piano rock,50,299307,0.421,0.152,0.409,147.88,-7.641,0.0318,0,0.107,0.354,0
+Zedd,Stay,Stay,6uBhi9gBXWjanegOb2Phh0,complextro,76,210091,0.69,0.544,0.622,102.04,-5.025,0.0622,0,0.116,0.253,0
+ONE OK ROCK,Ambitions,Take What You Want (feat. 5 Seconds of Summer),4u3qi4mgvCQzeTSIuUWHzl,j-pop,55,243333,0.497,0.391,0.89,117.939,-4.027,0.0887,0,0.201,0.0155,0
+Stanaj,The Preview,Romantic,3iMwZf2P45fKtygP2fa55c,,41,221680,0.469,0.276,0.369,133.172,-8.476,0.0439,0,0.0732,0.645,0
+Noah Cyrus,Make Me (Cry) [Acoustic Version],Make Me (Cry) - Acoustic Version,6pP5RJbBH6eKR8BCYX3MSU,pop,53,232907,0.604,0.361,0.261,77.245,-7.736,0.0598,0,0.142,0.886,0
+Flume,Skin,Never Be Like You (feat. Kai),47zREtxQZ3cHHIZwUQnuuN,australian dance,0,233337,0.564,0.26,0.552,119.907,-5.438,0.055,0,0.163,0.439,0
+Lindsey Stirling,Brave Enough,Where Do We Go (feat. Carah Faye),0WyxanWaFV9Dbk3DMuihtf,bow pop,40,255878,0.483,0.244,0.615,142.921,-5.329,0.0266,0,0.131,0.00343,0
+Childish Gambino,Kauai,Sober,6olUplztLFFfU7fMYmFXOP,atl hip hop,2,252013,0.699,0.434,0.601,98.04,-6.48,0.0304,1.17e-05,0.562,0.0972,0
+Greyson Chance,London,London,5Dfcq3TxJXREJdE6wM6KHC,alt z,27,255498,0.475,0.266,0.171,107.578,-10.068,0.0359,0,0.104,0.9,0
+Stanaj,From A Distance,Find Me,23L6jhZ95pj6Wr5HwVBVil,,28,229573,0.338,0.297,0.405,87.224,-7.054,0.0321,0,0.0869,0.692,0
+We The Kings,Somewhere Somehow,Sad Song (feat. Elena Coats),7xpraKSakDJ6WWgjQEtvgT,neo mellow,0,226330,0.512,0.193,0.559,85.017,-5.498,0.0253,0,0.0696,0.0843,0
+Ed Sheeran,÷ (Deluxe),Perfect,0tgVpDi06FyKpA1z0VMD4v,pop,88,263400,0.599,0.168,0.448,95.05,-6.312,0.0232,0,0.106,0.163,0
+Cash Cash,"Blood, Sweat & 3 Years",How to Love (feat. Sofia Reyes),1lWoanAmIk1PZisbP5LmwT,dance pop,46,219240,0.673,0.63,0.894,118.894,-2.73,0.0594,3.4e-06,0.141,0.148,0
+Christina Grimmie,Side A,Deception,2eUtvCC2a4glAWCDJMfcBn,post-teen pop,0,197453,0.386,0.388,0.42,174.992,-7.6,0.0549,0.000127,0.132,0.842,0
+Panic! At The Disco,Death of a Bachelor,Death of a Bachelor,1BECwm5qkaBwlbfo4kpYx8,modern rock,70,203507,0.462,0.405,0.538,139.256,-5.527,0.059,0,0.429,0.0137,0
+Fall Out Boy,Save Rock And Roll,Save Rock And Roll,0XJDfLHO7C6b0GpjeB5mpu,emo,47,281080,0.557,0.449,0.777,144.968,-6.286,0.0636,4.29e-05,0.1,0.0756,0
+The Script,Science & Faith,Exit Wounds,0UI1sKoV0GROOrmqxFr0Di,celtic rock,30,265387,0.539,0.302,0.734,114.949,-4.598,0.029,0,0.424,0.0242,0
+Daya,"Sit Still, Look Pretty",Words,28kwfhqP0K1f6ll0lpHg45,alt z,10,212923,0.751,0.56,0.777,125.02,-4.888,0.0594,0,0.0787,0.179,0
+Skylar Grey,Cannonball,Cannonball,1Ez4p27fWkO7j9F1o5aHOD,piano rock,46,235427,0.577,0.397,0.798,103.036,-6.64,0.0556,0.000922,0.46,0.0523,0
+Martin Garrix,In the Name of Love,In the Name of Love,23L5CiUhw2jV1OIMwthR3S,dance pop,80,195707,0.501,0.168,0.519,133.99,-5.88,0.0409,0,0.454,0.109,0
+The Script,#3,If You Could See Me Now,4VTL9bM6qaSTsYGVianqzr,celtic rock,46,219547,0.602,0.368,0.758,100.017,-6.864,0.0399,0,0.145,0.00569,0
+Christina Grimmie,Side A,Snow White,3lVPMaWIvTXri1Zw5aa0uU,post-teen pop,0,220560,0.498,0.245,0.603,124.554,-6.801,0.125,0,0.158,0.0692,0
+Alan Walker,Faded,Faded (Restrung),34F4GJFUzPvPJmGrTpyqlZ,electro house,46,217053,0.382,0.293,0.382,179.844,-6.635,0.0306,0.000309,0.139,0.916,0
+Lemaitre,1749,Closer,7sSC2ndMmI1qGNbu8UXQuE,norwegian pop,37,270533,0.575,0.363,0.794,91.966,-3.671,0.0359,0.0126,0.108,0.00119,0
+Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),Rockabye (feat. Sean Paul & Anne-Marie),5knuzwU65gJK7IF5yJsuaW,dance pop,75,251088,0.72,0.742,0.763,101.965,-4.068,0.0523,0,0.18,0.406,0
+Sam Smith,In The Lonely Hour,Like I Can,4iOoHmJJiqyTxsXSa5uELv,dance pop,0,167066,0.652,0.484,0.632,99.952,-6.612,0.0375,1.2e-05,0.124,0.363,0
+Kiiara,low kii savage,Feels,1sx4GRirvsRPocH3W04e5a,alt z,44,182500,0.651,0.401,0.377,123.999,-10.404,0.0811,3.68e-05,0.0936,0.427,0
+Fall Out Boy,American Beauty/American Psycho,Fourth Of July,1vrjcPplEuenckUzGGp2UR,emo,58,224360,0.481,0.516,0.974,79.964,-3.388,0.136,0.00998,0.406,0.139,0
+Andrew McMahon in the Wilderness,Zombies On Broadway,Fire Escape,6uCmU6ldcsVpLAKNCojVg8,hopebeat,50,204840,0.583,0.422,0.862,105.998,-4.387,0.0575,0,0.256,0.0468,0
+The Cab,Symphony Soldier,Endlessly,3Vmbt5Yw39WqaIg4eRoOmk,modern rock,48,236547,0.515,0.523,0.867,129.961,-5.438,0.106,0,0.138,0.0456,0
+Christina Grimmie,With Love,With Love,4xtpy5lEYd3Feg17826h4d,post-teen pop,0,237933,0.429,0.201,0.445,150.126,-5.674,0.0265,0.000178,0.239,0.776,0
+ZAYN,Mind Of Mine (Deluxe Edition),fOoL fOr YoU,6lvsJDZ7336YmpBzcNGhbe,dance pop,68,202213,0.52,0.17,0.513,77.903,-7.208,0.0256,0,0.0976,0.281,0
+Troye Sivan,TRXYE,Gasoline,52dlnJj2OE27ZvfpyvXD3t,australian pop,43,205769,0.575,0.251,0.598,160.021,-8.327,0.104,2.61e-05,0.081,0.00346,0
+We The Kings,So Far,We'll Be A Dream,4KRnK6B6FMMp6GrRUU8vUk,neo mellow,0,233330,0.432,0.168,0.706,159.926,-4.711,0.0308,0,0.254,0.00256,0
+Against The Current,Infinity,Another You (Another Way),2rHEKIctPLM0wPlD9TyYeF,neon pop punk,42,203500,0.57,0.897,0.896,135.073,-2.407,0.0398,0,0.195,0.00329,0
+Imagine Dragons,Smoke + Mirrors (Deluxe),I’m So Sorry,68hC01gNja5yqY5JCkV82E,modern rock,50,230227,0.528,0.423,0.687,142.605,-5.954,0.0532,0,0.251,0.144,0
+Joel Adams,Please Don't Go,Please Don't Go,3cNjgVBKTJ1SvKhunrCdVy,australian pop,71,210580,0.513,0.235,0.768,84.264,-4.868,0.0587,1.94e-05,0.294,0.0118,0
+Ed Sheeran,÷ (Deluxe),Supermarket Flowers,4VuS959DSpr82t3qBqCrWG,pop,76,221107,0.589,0.257,0.242,89.749,-10.517,0.0442,0,0.0887,0.914,0
+Guy Sebastian,Tonight Again,Tonight Again,12tYct92r1ZBh1gw6tYG8p,australian pop,0,203339,0.702,0.586,0.843,106.095,-2.403,0.145,0,0.151,0.0859,0
+The Cab,Symphony Soldier,Lovesick Fool,4mXOPW8UMCdV9VgikoX5JL,modern rock,35,254360,0.538,0.308,0.61,141.992,-7.887,0.0479,0,0.105,0.325,0
+Christina Grimmie,Side A,Without Him,0HfyzElRYxa3T29SAuPx9o,post-teen pop,0,235333,0.629,0.543,0.613,84.887,-7.454,0.188,1.29e-05,0.0713,0.136,0
+Troye Sivan,TRXYE,The Fault In Our Stars (MMXIV),0PewHsjIkGgvNVrzOd5U1E,australian pop,32,192797,0.517,0.336,0.469,75.004,-8.978,0.034,0.000298,0.139,0.629,0
+Against The Current,In Our Bones,Brighter,7D8KHKHM0XrmZHu1dloM8H,neon pop punk,36,207000,0.462,0.306,0.845,158.031,-3.743,0.0401,1.37e-05,0.265,0.00762,0
+ZAYN,Mind Of Mine (Deluxe Edition),BeFoUr,7ofgPlilLgcw6G7fd2zNpT,dance pop,56,208920,0.679,0.186,0.629,102.005,-7.981,0.0318,0.012,0.122,0.242,0
+Sam Smith,In The Lonely Hour,I'm Not The Only One,0fioLzGM8ngbD1w6fMmm45,dance pop,0,239317,0.453,0.501,0.496,80.994,-5.785,0.0453,2.65e-05,0.0772,0.554,0
+Demi Lovato,Confident (Deluxe Edition),Stone Cold,56twMOlq9DJc3EgpVUVIrW,dance pop,59,191308,0.419,0.356,0.453,140.327,-7.685,0.0437,0,0.0971,0.539,0
+Clean Bandit,Symphony (feat. Zara Larsson),Symphony (feat. Zara Larsson),1x5sYLZiu9r5E43kMlt9f8,dance pop,74,212459,0.707,0.457,0.629,122.863,-4.581,0.0563,1.6e-05,0.138,0.259,0
+Bastille,All This Bad Blood,Oblivion,3IvSKBO9Fu4yEWRPXvfrLU,metropopolis,60,196347,0.422,0.28,0.321,78.533,-8.952,0.0294,2.33e-06,0.429,0.76,0
+Against The Current,In Our Bones,Blood Like Gasoline,4hsCkeF9RUxJzv78Oe2unc,neon pop punk,38,198000,0.391,0.174,0.874,180.037,-2.925,0.0732,0,0.0705,0.00379,0
+Fall Out Boy,Save Rock And Roll,Death Valley,3iJmiaoZWzykf3Hl4IeYtI,emo,47,226720,0.571,0.576,0.926,133.903,-3.576,0.0479,0.00376,0.0522,0.000217,0
+5 Seconds of Summer,5 Seconds Of Summer (B-Sides And Rarities),Close As Strangers,7EYVg6Re3JLrTprnEp4J4F,boy band,55,199930,0.467,0.338,0.796,150.016,-5.265,0.0351,0,0.0877,0.0218,0
+Lindsey Stirling,Brave Enough,Hold My Heart (feat. ZZ Ward),5EeXZLPDNCWLpEHzNcL1U7,bow pop,44,209902,0.521,0.52,0.875,151.576,-3.385,0.0451,0.000319,0.124,0.0272,0
+Nathan Sykes,Unfinished Business (Deluxe),I Can't Be Mad,4l0kJ7NayEg0qWJrj5lOGE,post-teen pop,26,247880,0.329,0.463,0.344,76.325,-7.803,0.0309,0,0.157,0.775,0
+Zara Larsson,So Good,I Can't Fall in Love Without You,4VPXFi4vFTtS9wHe6oMQaT,dance pop,65,180640,0.485,0.273,0.332,130.813,-9.244,0.0338,0.000122,0.146,0.784,0
+The Weeknd,Starboy,Attention,6pDVjCUA3B1vg9waKutAsv,canadian contemporary r&b,67,197653,0.671,0.362,0.428,148.04,-7.052,0.124,0.000182,0.119,0.688,0
+Troye Sivan,Blue Neighbourhood (Deluxe),TOO GOOD,7FDyoxixibPa7SJIjg7NIp,australian pop,39,224369,0.326,0.165,0.569,148.658,-5.953,0.0444,0,0.186,0.149,0
+Halsey,Spotify Sessions (Live From Spotify NYC),Ghost - Live From Spotify NYC,2ndJQ968H7uRS2rrYdEaQ3,dance pop,39,160400,0.398,0.135,0.552,186.241,-6.844,0.204,0,0.676,0.628,0
+Bea Miller,yes girl,yes girl,7rBJG1BewE3VE7NRbrOhFj,alt z,52,231391,0.549,0.241,0.729,98.933,-4.997,0.0318,0,0.193,0.0618,0
+OneRepublic,Native,If I Lose Myself,7hIRQZhDjab4YgqkkkehV9,piano rock,58,241640,0.482,0.263,0.713,140.069,-6.017,0.0487,0,0.111,0.0969,0
+Troye Sivan,Blue Neighbourhood (Deluxe),BLUE,2pmO8V5TEDZqsrcaxSucpj,australian pop,51,211817,0.39,0.212,0.536,129.997,-7.536,0.0384,0,0.115,0.593,0
+Zara Larsson,So Good,Funeral,75gU1E0ou9Kf8GBVwGs1Xk,dance pop,42,215707,0.53,0.343,0.637,119.844,-6.307,0.0526,5.83e-06,0.129,0.0898,0
+ILLENIUM,Fractures (feat. Nevve),Fractures (feat. Nevve),6H0zRPEV1ezBHOidNXSt1D,edm,55,245250,0.41,0.266,0.711,159.837,-3.064,0.0432,0.00179,0.139,0.373,0
+Lupe Fiasco,"Food & Liquor II: The Great American Rap Album, Pt. 1",Battle Scars (with Guy Sebastian),1hWYT0w2R0J19rlVkiez7X,chicago rap,68,250320,0.517,0.494,0.811,168.269,-4.526,0.286,0,0.105,0.186,0
+5 Seconds of Summer,5 Seconds Of Summer (B-Sides And Rarities),Tomorrow Never Dies,6MzYN2NMcSYewgpinB1SCM,boy band,44,172371,0.483,0.512,0.817,156.854,-5.338,0.0529,0,0.095,0.00382,0
+JP Cooper,September Song (Guitar Acoustic),September Song - Guitar Acoustic,4LTOzL6JsnQBifmpsbo9a5,dance pop,0,212153,0.41,0.526,0.428,88.361,-7.927,0.0329,0,0.138,0.359,0
+Iselin Solheim,Giants,Giants,1aE7RdifbBvoi19ZOxSoiu,,0,222525,0.495,0.4,0.705,120.812,-7.132,0.0418,0.00344,0.375,0.19,0
+Against The Current,In Our Bones,Chasing Ghosts,4UYpnpm7ZDdo0hyyZNXSpl,neon pop punk,42,209507,0.598,0.382,0.722,104.001,-3.533,0.0285,7.54e-05,0.0753,0.0294,0
+The Script,No Sound Without Silence,Flares,3mTEYjm3kIm4YzJ5zxJZjs,celtic rock,59,229320,0.348,0.0661,0.351,164.054,-9.883,0.0344,0,0.055,0.408,0
+Various Artists,Fifty Shades Darker (Original Motion Picture Soundtrack),Pray,7vl6ANTdLHg94AvCYXiSIw,,56,200813,0.551,0.48,0.623,82.921,-6.994,0.0474,0,0.0917,0.0875,0
+Astrid S,Running Out (Live From The Studio),Running Out - Live From The Studio,2iAy8pc1c5qEyHBETuiVP4,alt z,47,165307,0.509,0.325,0.22,169.132,-7.445,0.051,9.97e-05,0.139,0.983,0
+Ron Pope,The Bedroom Demos,A Drop in the Ocean,5JDcQAztvZTIkrWoZihgvC,acoustic pop,67,220239,0.447,0.564,0.393,73.139,-8.65,0.038,0,0.28,0.785,0
+Various Artists,Suicide Squad: The Album,Gangsta,1W7zkKgRv9mrLbfdQ8XyH3,dance pop,73,177029,0.439,0.11,0.447,121.48,-8.318,0.0436,0,0.303,0.111,0
+Andra Day,Cheers to the Fall,Rise Up,0tV8pOpiNsKqUys0ilUcXz,r&b,73,253342,0.398,0.174,0.316,118.582,-7.031,0.0368,0,0.295,0.805,0
+The Script,The Script,The Man Who Can't Be Moved,4Musyaro0NM5Awx8b5c627,celtic rock,55,241467,0.608,0.325,0.629,99.953,-5.024,0.0264,0,0.0978,0.423,0
+Ed Sheeran,Shape of You,Shape of You,0FE9t6xYkqWXU2ahLh6D8X,pop,68,233713,0.825,0.931,0.652,95.977,-3.183,0.0802,0,0.0931,0.581,0
+Snakehips,Cruel (feat. ZAYN),Cruel (feat. ZAYN),0B2RttXEiyXsMeQ7mMP3EI,edm,57,228253,0.603,0.318,0.879,110.125,-4.098,0.124,0,0.156,0.0184,0
+Nathan Sykes,Over And Over Again,Over And Over Again,2HwEiFtSk9LtTK2yHpGsBr,post-teen pop,0,247080,0.56,0.401,0.274,129.745,-8.487,0.033,0,0.0964,0.954,0
+Nick Jonas,Chainsaw,Chainsaw,0zPUFs8xbdJOgJNwaOp7bG,dance pop,0,199520,0.594,0.296,0.659,85.066,-4.506,0.0394,0,0.0747,0.152,0
+Emeli Sandé,Hurts,Hurts,03LlnXKqp8yvIaIEGmtFnf,dance pop,0,238353,0.593,0.174,0.666,106.022,-7.51,0.0276,0.00502,0.156,0.0139,0
+Nathan Sykes,Famous,Famous,4wpCjSS8lPKvOYJtTlI2zc,post-teen pop,0,250853,0.63,0.4,0.523,85.033,-5.381,0.0254,0,0.237,0.558,0
+Jordan Fisher,All About Us,All About Us,7ABGV6WSsEnRULbSP6Xuvd,post-teen pop,0,227285,0.554,0.495,0.861,93.09,-4.191,0.323,0,0.0743,0.0107,0
+Shawn Mendes,Illuminate (Deluxe),Don't Be A Fool,5nd3dAH4VyhuDi7F8ctvIP,canadian pop,0,215773,0.471,0.257,0.33,175.285,-5.95,0.0427,0,0.0972,0.615,0
+G-Eazy,When It's Dark Out,"Me, Myself & I",40YcuQysJ0KlGQTeGUosTC,hip hop,78,251467,0.756,0.389,0.674,111.995,-6.518,0.0959,0,0.158,0.0184,0
+The Chainsmokers,Closer,Closer,7BKLCZ1jbUBVqRi2FVlTVw,dance pop,85,244960,0.748,0.661,0.524,95.01,-5.599,0.0338,0,0.111,0.414,0
+Nathan Sykes,Give It Up,Give It Up,5TwvMueXdqSWCUB3Bl3XXC,post-teen pop,0,205405,0.701,0.883,0.689,102.46,-4.464,0.141,0,0.101,0.117,0
+Hailee Steinfeld,Starving,Starving,4Ce37cRWvM1vIGGynKcs22,dance pop,75,181880,0.728,0.508,0.616,99.962,-4.238,0.0645,0,0.105,0.378,0
+Chris Brown,Back To Sleep REMIX (feat. Usher & ZAYN),Back To Sleep REMIX (feat. Usher & ZAYN),4wM4c5ly3GR4YYgWSePlSG,dance pop,55,267156,0.653,0.797,0.675,92.832,-6.308,0.213,0,0.483,0.119,0
+Fall Out Boy,American Beauty/American Psycho,Novocaine,5F0bmCjKUufNz1bHXfgRwe,emo,58,226867,0.536,0.481,0.974,135.997,-2.833,0.0969,0.00102,0.357,0.0065,0
+Shawn Mendes,Ruin,Ruin,0JbDAwdeOrbtlADpxgxfc6,canadian pop,0,241893,0.68,0.48,0.395,125.082,-6.643,0.0328,0,0.112,0.368,0
+tyDi,Oceans (feat. Greyson Chance),Oceans (feat. Greyson Chance),7fOUrR6avXz9gAWC3LmB4y,australian dance,0,217143,0.68,0.26,0.745,126.047,-5.626,0.0798,0,0.0758,0.0894,0
+Jacob Whitesides,Why?,Hold on Honey,3HB1YtUqBjbuivtMPrCW2N,teen pop,15,284907,0.334,0.0628,0.511,92.675,-6.989,0.0318,0.000231,0.119,0.314,0
+The Weeknd,Starboy,Starboy,2IY7eOUDjw2ArKYxKa2jXc,canadian contemporary r&b,0,230467,0.682,0.5,0.592,186.041,-7.033,0.281,5.49e-06,0.136,0.169,0
+Major Lazer,Cold Water,Cold Water,7zsXy7vlHdItvUSH8EwQss,dance pop,68,185360,0.608,0.501,0.798,92.943,-5.092,0.0432,0,0.156,0.0736,0
+Greyson Chance,Hit & Run,Hit & Run,4r7raHoBR2YR8F6qJ1dpIO,alt z,20,229733,0.382,0.518,0.741,121.613,-3.351,0.0467,0,0.118,0.294,0
+Birdy,Birdy,Shelter,75HUxEyYVoVnO4ZfAU9dfp,pop,47,224867,0.418,0.261,0.196,79.462,-10.435,0.0317,0.000151,0.108,0.983,0
+Shawn Mendes,Treat You Better,Treat You Better,1mSlftOO1dlDRXAyOE0Sbd,canadian pop,0,187973,0.448,0.709,0.817,83.015,-4.069,0.386,0,0.105,0.128,0
+Alex & Sierra,It's About Us,Back to You,7JYcQU1Dv1Rabv3AQyynWD,neo mellow,37,232280,0.363,0.344,0.376,133.869,-8.625,0.0362,0,0.13,0.359,0
+DJ Snake,Encore,Let Me Love You,0lYBSQXN6rCTvUZvg9S0lU,dance pop,84,205947,0.649,0.163,0.716,99.988,-5.371,0.0349,2.63e-05,0.135,0.0863,0
+One Direction,Love You Goodbye,Love You Goodbye,4aBvNdk441AYYJ1BRgDkrH,boy band,0,196933,0.546,0.361,0.657,133.188,-4.787,0.0332,0,0.119,0.0928,0
+ZAYN,PILLOWTALK,PILLOWTALK,0IKK48xF4eEdfofyaeKWWO,dance pop,60,203686,0.588,0.429,0.702,124.909,-4.271,0.0496,0,0.089,0.104,0
+Nathan Sykes,Unfinished Business (Deluxe),Tears In The Rain,3in8IG5Ioo6jxjxx1vQanw,post-teen pop,16,263520,0.573,0.406,0.859,80.007,-5.296,0.0851,0,0.0469,0.05,0
+ZAYN,LIKE I WOULD,LIKE I WOULD,0WEVf4RhIrcr3S3ULBrt0T,dance pop,41,192133,0.565,0.233,0.832,112.827,-5.732,0.114,0,0.26,0.0247,0
+Lawson,Learn To Love Again,Learn To Love Again,77MARYLF3hG7vILoU0Cu7v,dance pop,0,205880,0.501,0.308,0.902,122.092,-4.825,0.0704,0,0.0824,0.00748,0
+Sabrina Carpenter,Smoke and Fire,Smoke and Fire,67zT3NI4tTOj8GreXetF6s,alt z,50,225011,0.459,0.53,0.869,169.934,-4.125,0.0874,1.72e-06,0.0728,0.00567,0
+Nathan Sykes,Unfinished Business (Deluxe),Burn Me Down,6OEuhpa4YTlBy0liA81gNE,post-teen pop,15,239933,0.342,0.309,0.607,63.664,-5.934,0.0365,0,0.243,0.0511,0
+Troye Sivan,Blue Neighbourhood (Deluxe),TALK ME DOWN,0nRuVPZx2iA3KWR4xSzryl,australian pop,50,237464,0.362,0.354,0.781,173.688,-6.803,0.0741,0.000197,0.125,0.151,0
+Shawn Mendes,Mercy,Mercy,1oHCgpheYhmhQbhCmbhpWn,canadian pop,0,208733,0.409,0.354,0.686,147.929,-4.893,0.177,0,0.11,0.131,0
+Greyson Chance,Afterlife,Afterlife,2OtcGlYvI7rMGNJKG6pDLg,alt z,29,196911,0.487,0.308,0.734,171.987,-5.506,0.063,0,0.0997,0.18,0
+John Legend,Love Me Now,Love Me Now,6hdkw1wzhIRYPlYDUtCY5m,neo soul,54,210307,0.416,0.716,0.773,122.65,-3.784,0.0949,0,0.105,0.572,0
+Troye Sivan,Blue Neighbourhood (Deluxe),WILD,2HWWsTZxnLSUdFZ4gjsP5N,australian pop,51,227872,0.581,0.394,0.725,89.989,-5.349,0.0592,0,0.304,0.0235,0
+Nathan Sykes,Kiss Me Quick,Kiss Me Quick,6leEyWoEKVp1Yr15fgjOr8,post-teen pop,0,187920,0.527,0.802,0.747,181.845,-4.089,0.277,0,0.162,0.14,0
+Coleman Hell,2 Heads,2 Heads,3bi8yEuK44vLcbjHkPH0u1,canadian pop,52,213707,0.733,0.35,0.565,120.006,-8.515,0.0367,0.000324,0.104,0.0621,0
+Shawn Mendes,Illuminate (Deluxe),Like This,3KA6ro0vMzSx4xpHRo13BT,canadian pop,0,186947,0.489,0.258,0.417,74.701,-7.808,0.0822,0,0.112,0.836,0
+Nick Jonas,Last Year Was Complicated,Bacon,5W4vPDfwFNQqt7frRjL41t,dance pop,50,182947,0.709,0.755,0.698,143.951,-5.182,0.0799,0,0.272,0.0738,0
+Ariana Grande,Dangerous Woman,Dangerous Woman,2pWZZZGURB0k1R38CP8ouq,dance pop,0,235947,0.67,0.301,0.637,134.056,-5.275,0.0445,0,0.356,0.0543,0
+Greyson Chance,Somewhere over My Head,More Than Me,61nfF7ewbisquXUk9klAw7,alt z,22,347893,0.3,0.179,0.532,74.993,-7.823,0.0359,0,0.0894,0.0938,0
+Fall Out Boy,Save Rock And Roll,Young Volcanoes,3nSiB5WCF2pmRQrYSsteHv,emo,54,204507,0.599,0.676,0.853,94.997,-3.878,0.0365,0.000504,0.37,0.00123,0
+One Direction,Made In The A.M. (Deluxe Edition),If I Could Fly,5CRVwXGikmqzoRO6q7FeAg,boy band,70,230320,0.565,0.307,0.245,75.055,-9.132,0.0262,0,0.0998,0.781,0
+Imagine Dragons,Night Visions,Bleeding Out,6NaBDHz9C7Uz9Z9CwLXQin,modern rock,58,221053,0.299,0.295,0.754,169.373,-4.078,0.0732,1.3e-06,0.103,0.0195,0
+Ariana Grande,Yours Truly,Almost Is Never Enough,63bo7NDoWdMFXufhsYOxwG,dance pop,55,327773,0.323,0.335,0.327,81.329,-7.494,0.0411,0,0.101,0.824,0
+Conor Maynard,Contrast,Turn Around (feat. Ne-Yo),45c2D6f9UL1noUfIrYHrU6,dance pop,36,232387,0.594,0.595,0.865,125.03,-2.589,0.0263,6.6e-06,0.128,0.0179,0
+Jacob Whitesides,Lovesick,Lovesick,3SuffYZciEnwvhLRVAoWPj,teen pop,19,194951,0.599,0.843,0.818,96.031,-3.227,0.0845,0,0.103,0.107,0
+Machine Gun Kelly,Bad Things,Bad Things - With Camila Cabello,56cswAa9WdFBsjsTyPBAKA,ohio hip hop,0,239280,0.674,0.242,0.694,137.839,-4.739,0.129,0,0.183,0.223,0
+5 Seconds of Summer,Jet Black Heart,Jet Black Heart,2jIqJpQbrMHPLE4EUFgFr0,boy band,0,221716,0.51,0.556,0.847,153.959,-4.263,0.0335,0,0.0849,0.000152,0
+X Ambassadors,VHS,Unsteady,7lGKEWMXVWWTt3X71Bv44I,modern alternative rock,74,193547,0.389,0.199,0.665,117.055,-6.169,0.0644,0.000732,0.116,0.178,0
+Flume,Skin,Say It (feat. Tove Lo),4sQMalN597HdggTu196aL0,australian dance,0,262521,0.598,0.261,0.532,74.963,-6.833,0.0295,3.22e-06,0.0617,0.0668,0
+Jacob Whitesides,Focus,Focus,2ut8at4fl1XjDEn8hPf8AE,teen pop,8,228093,0.605,0.245,0.792,115.985,-4.822,0.0439,1.03e-06,0.0943,0.0875,0
+ZAYN,BeFoUr,BeFoUr,1yjrikPgranwjVMbVDsRcF,dance pop,30,208920,0.679,0.186,0.629,102.005,-7.981,0.0318,0.012,0.122,0.242,0
+5 Seconds of Summer,Sounds Good Feels Good (Deluxe),Vapor,6V6Xoa7CRJJRoe7f9hRdAe,boy band,52,179091,0.507,0.531,0.861,155.071,-4.574,0.0434,0,0.121,0.0117,0
+Marianas Trench,Astoria,One Love,61jYLSvac9ewXEN2JE7WA7,canadian rock,0,241453,0.563,0.477,0.715,143.95,-4.782,0.0385,0,0.113,0.0616,0
+Jacob Whitesides,Why?,Jaded Love,15AdiagLwYoKIfRgmiKTsY,teen pop,10,210312,0.663,0.586,0.772,97.982,-5.44,0.0821,0,0.2,0.0059,0
+Niall Horan,This Town,This Town,5dTJMpqiELczVuHJP3OAEu,dance pop,59,232600,0.679,0.195,0.407,111.814,-7.778,0.0302,0,0.122,0.699,0
+Lawson,Lawson - EP,Standing In The Dark,3GBoBxcUqrdb4NGyKaipZE,dance pop,35,211893,0.494,0.483,0.712,94.935,-4.703,0.0274,0,0.198,0.0032,0
+Nathan Sykes,Twist,Twist,30Wg9HiNr7Qm0EoYelC2RS,post-teen pop,0,241827,0.707,0.851,0.791,125.962,-4.344,0.0443,0,0.133,0.00439,0
+The Wanted,Word Of Mouth (Deluxe),Love Sewn,5CQq1xpt6i2qPmOoqzJ2B9,boy band,14,262547,0.512,0.305,0.701,96.002,-2.922,0.0287,0,0.138,0.0124,0
+OneRepublic,Oh My My,Wherever I Go,7kftK4n15rl1wbpfjSq2Tk,piano rock,62,169773,0.54,0.348,0.675,99.97,-6.449,0.0429,0,0.237,0.1,0
+gnash,us,"i hate u, i love u (feat. olivia o'brien)",7vRriwrloYVaoAe3a9wJHe,pop,78,251034,0.492,0.18,0.275,92.6,-13.4,0.3,0,0.101,0.687,0
+5 Seconds of Summer,Sounds Good Feels Good (Deluxe),Castaway,0Lz17st4A5INY3ZESQhFNK,boy band,54,214680,0.537,0.759,0.902,159.998,-4.468,0.0511,0,0.0636,0.000821,0
+Sabrina Carpenter,EVOLution,Run and Hide,24fhYqs2KtWbHfY4Ngdf5U,alt z,45,209640,0.522,0.454,0.362,155.978,-7.72,0.0529,0,0.161,0.863,0
+Conor Maynard,Contrast,Vegas Girl,55zVsfjfD9qbCCFRVv95qi,dance pop,32,169800,0.566,0.206,0.727,176.041,-6.209,0.0575,0,0.0777,0.00168,0
+Olly Murs,Never Been Better,Wrapped Up (feat. Travie McCoy),3NWswaScstrFXB1Jcl4EVt,dance pop,0,185640,0.787,0.947,0.848,121.989,-4.696,0.0549,0,0.15,0.0915,0
+Shawn Mendes,Illuminate (Deluxe),Roses,0lzNpQxI583qBo7AwE6ux1,canadian pop,0,232200,0.627,0.294,0.484,78.039,-6.741,0.0334,0,0.118,0.424,0
+Alessia Cara,Know-It-All (Deluxe),Scars To Your Beautiful,0prNGof3XqfTvNDxHonvdK,canadian contemporary r&b,5,230227,0.573,0.451,0.739,97.085,-5.74,0.129,0,0.111,0.0285,0
+Lawson,Roads,Roads,1IrMDX4vp3cOUF6grdW4Gn,dance pop,0,217933,0.687,0.877,0.914,112.002,-3.226,0.0586,2.46e-05,0.0921,0.0122,0
+Avicii,Taste The Feeling (Avicii Vs. Conrad Sewell),Taste The Feeling (Avicii Vs. Conrad Sewell),70mHIUa4beJjFpBNyHYwT2,dance pop,56,191066,0.633,0.558,0.79,89.933,-4.529,0.0539,0,0.0626,0.0335,0
+The Cab,Symphony Soldier,Angel With A Shotgun,49rpdsNYJirTTf6p6mMvag,modern rock,62,221387,0.546,0.402,0.837,124.007,-5.13,0.0519,0,0.387,0.00549,0
+Nathan Sykes,More Than You’ll Ever Know,More Than You'll Ever Know,5MO98jZE38vzzVfw1uQf6Q,post-teen pop,0,206963,0.624,0.528,0.859,102.805,-5.407,0.16,1.29e-05,0.179,0.0881,0
+Jacob Whitesides,Why?,Black and Blue,3pmYjQfUSTXp5j01PXaJKT,teen pop,10,210458,0.606,0.485,0.809,128.046,-5.231,0.0425,2.91e-06,0.254,0.00085,0
+Olivia Holt,Olivia,Thin Air,6y6a7dT81LLvGAP0k0endw,alt z,31,215867,0.732,0.851,0.807,80.993,-6.49,0.185,0,0.0285,0.0557,0
+Jacob Whitesides,Open Book,Open Book,6qtYOK5GBBMAqhqaPijSwW,teen pop,7,288266,0.474,0.187,0.635,128.04,-5.86,0.048,0,0.103,0.421,0
+The Script,No Sound Without Silence,Superheroes,37sINbJZcFdHFAsVNsPq1i,celtic rock,74,245467,0.49,0.64,0.885,166.996,-4.121,0.0396,0,0.0741,0.00218,0
+One Direction,Made In The A.M. (Deluxe Edition),A.M.,5omYVLodGmaxnhua99xIE8,boy band,65,209040,0.586,0.506,0.527,141.839,-4.905,0.0309,0,0.0963,0.227,0
+Zara Larsson,Never Forget You,Never Forget You,6WLS56xiRrXjSm9RSdL3zD,dance pop,0,213428,0.583,0.276,0.732,145.992,-5.728,0.0457,9.86e-06,0.269,0.00312,0
+Greyson Chance,Somewhere over My Head,Back on the Wall,6PMlE9yTGsh6FIMVJducdj,alt z,17,205827,0.547,0.349,0.78,93.883,-4.694,0.0546,0,0.106,0.0611,0
+Vance Joy,Dream Your Life Away (Special Edition),Fire and the Flood,6liNJDyWJjyHAgDnAX95bw,folk-pop,65,249382,0.596,0.329,0.827,115.034,-4.402,0.0372,0,0.0958,0.0242,0
+5 Seconds of Summer,Sounds Good Feels Good (Deluxe),Broken Home,5TMjhlh25Oitlh3LBKdfMi,boy band,51,220709,0.585,0.5,0.631,128.001,-5.522,0.0264,0,0.105,0.128,0
+Shawn Mendes,Handwritten (Revisited),Running Low,2ePgwid1o7NKDpUmNGC69b,canadian pop,58,274587,0.599,0.141,0.297,122.314,-9.188,0.0301,3.13e-06,0.108,0.709,0
+Birdy,Fire Within,People Help the People,65BMD6q7gRTUn9uZmEdjEz,pop,28,256853,0.469,0.158,0.335,75.108,-7.494,0.0291,2.76e-05,0.0931,0.794,0
+Ruth B.,Lost Boy,Lost Boy,4h0zU3O9R5xzuTmNO7dNDU,alt z,73,275280,0.71,0.348,0.0565,123.994,-15.099,0.0534,0,0.0889,0.965,0
+Astrid S,Astrid S,Hurts So Good,46ydq5g3k17iLJs3qMDvO6,alt z,72,208729,0.675,0.378,0.609,120.039,-5.027,0.0586,0,0.0957,0.084,0
+Ariana Grande,Be Alright,Be Alright,2YA7l0SaNtNtazsQg7KM8t,dance pop,0,177293,0.803,0.585,0.464,108.781,-7.684,0.0983,1.13e-06,0.123,0.221,0
+Nick Jonas,Close,Close,2LbbLV26X7K1kLzI7xXFE2,dance pop,0,234240,0.643,0.39,0.624,124.075,-5.437,0.0923,0,0.14,0.224,0
+Ed Sheeran,x (Wembley Edition),Lay It All on Me (feat. Ed Sheeran),0vbbhcA6okLzvsy6WSTlLg,dance pop,39,242440,0.669,0.483,0.747,122.531,-7.108,0.0428,0,0.185,0.141,0
+Conor Maynard,Covers,This Is My Version,5qJZxVKQ8vz9Rak3t4b2VY,dance pop,50,148589,0.632,0.588,0.38,77.944,-7.073,0.0301,0,0.0992,0.852,0
+The Wanted,The Wanted (Special Edition),Warzone,1Cg8h9kBOqP1xqVPsfJc2U,boy band,29,218347,0.611,0.191,0.72,122.024,-4.939,0.0271,6.14e-05,0.276,0.164,0
+Pentatonix,"PTX, Vol. III",Standing By,2ZtMNYog671T0UFfp0hhWq,a cappella,36,253800,0.469,0.159,0.246,112.967,-13.491,0.0297,5.54e-05,0.099,0.48,0
+Jacob Whitesides,Secrets,Secrets,7F6c6qbHEafB6xAZGfKeLu,teen pop,0,254720,0.617,0.556,0.9,108.017,-5.088,0.0589,0,0.119,0.0315,0
+Christina Perri,lovestrong.,Jar of Hearts,0HZhYMZOcUzZKSFwPOti6m,dance pop,73,246587,0.349,0.0886,0.348,74.541,-6.142,0.0316,0,0.12,0.726,0
+Fall Out Boy,Believers Never Die - Greatest Hits,Thnks fr th Mmrs,0bD5aCBb46dEtEVkv9hd1m,emo,48,208253,0.461,0.597,0.89,155.05,-5.167,0.0628,0,0.0953,0.00348,0
+Rob Thomas,The Great Unknown,Pieces,2LBhwMS0iYId8BWfNIiOuG,neo mellow,53,260840,0.551,0.432,0.289,108.098,-9.83,0.0268,0.00011,0.124,0.92,0

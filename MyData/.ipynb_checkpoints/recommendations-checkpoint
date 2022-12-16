@@ -1,0 +1,61 @@
+,index,artist,album,track_name,track_id,duration_ms,danceability,valence,energy,tempo,loudness,speechiness,instrumentalness,liveness,acousticness
+0,0,Clairo,Sling,Amoeba,0HAqq2GcQKyi3s87GuN7jU,228922,0.739,0.707,0.491,111.008,-11.515,0.027,0.0366,0.1,0.791
+1,1,Kenny Beats,LOUIE,Still,2rbSlNYTYboHHWelF0xSAQ,162240,0.619,0.84,0.702,140.854,-7.847,0.124,0.0531,0.174,0.185
+2,2,Shelly,Shelly,Steeeam,09RamrocZneYcLYLRIxYha,170893,0.817,0.923,0.763,120.034,-11.014,0.0373,0.158,0.124,0.546
+3,3,Ryan Beatty,Boy in Jeans,Party's Over,16v5heGSXbMLE2gV1oRfwi,245178,0.322,0.152,0.315,137.861,-9.422,0.0298,2.06e-05,0.376,0.7
+4,4,Luna Li,Duality,Cherry Pit,6A99m7rCQHZ1Len8QlPfOf,290565,0.701,0.707,0.602,120.753,-7.423,0.0367,0.000392,0.153,0.2
+5,5,Car Seat Headrest,Commit Yourself Completely,"Ivy - Live at the Capitol Theater, Olympia, WA",4MwhlxglzBBnuPrSYQcy1N,311313,0.707,0.499,0.16,102.14,-13.678,0.0634,1.83e-05,0.946,0.92
+6,6,Tkay Maidza,"Last Year Was Weird, Vol.2",My Flowers,1Ac6vbVAAI7BDrtlGX1iEr,220288,0.621,0.353,0.48,87.047,-6.364,0.279,0,0.223,0.123
+7,7,Little Simz,Sometimes I Might Be Introvert,Protect My Energy,64DqILfBnCXzhEDGUHZet1,188800,0.73,0.963,0.82,115.015,-7.458,0.0315,0.44,0.102,0.00478
+8,8,Turnstile,GLOW ON,ALIEN LOVE CALL,5o5SdS2vu1PgKblBABGlER,176003,0.548,0.0732,0.401,126.041,-9.376,0.0307,0.0078,0.184,0.00282
+9,9,underscores,fishmonger,Del mar county fair 2008,7HTdY4rpT1Wal6ux3t2hE4,271111,0.712,0.529,0.3,134.917,-11.276,0.063,6.25e-05,0.419,0.874
+10,10,Dora Jar,comfortably in pain,Lagoon,4ZCjHrvSjyp7bltVJtGvNt,153315,0.648,0.374,0.562,72.014,-6.124,0.0535,3.24e-05,0.1,0.645
+11,11,Blue Dahlia,1995,1995,2AjLglUo6dT2WvXwACfsEL,235755,0.64,0.0711,0.707,106.013,-3.973,0.0242,0.00333,0.0896,0.401
+12,12,Remi Wolf,Live at Electric Lady,Pink + White - Live at Electric Lady,5uJK1i4LU4I5Ai5qCeHonu,233407,0.498,0.55,0.468,148.266,-6.17,0.0502,0,0.103,0.133
+13,13,Ball Park Music,Ball Park Music,"Bad Taste Blues, Pt. III",5X4GIF87F0PzUUSTA2TIR4,258093,0.49,0.522,0.652,108.943,-6.374,0.0315,0.105,0.127,0.0168
+14,14,Bickle,Apocalypse Love Song,Apocalypse Love Song,5sisWMCOONgnbPJ5Q4MZq9,155667,0.787,0.509,0.223,81.521,-9.413,0.0328,1.69e-05,0.1,0.628
+15,15,See You Next Year,Pigeons & Planes presents: See You Next Year,Roses,56pP9BFwLTcC54G9SgaV27,174906,0.582,0.178,0.622,136.89,-8.097,0.0703,3.2e-05,0.435,0.0122
+16,16,Rozie Ramati,Orange Juice,Orange Juice,3s4QIE9CMkTRCufw1q0evm,175750,0.397,0.121,0.393,80.046,-10.806,0.0319,0.000102,0.116,0.736
+17,17,COIN,Rainbow Mixtape,Sagittarius Superstar,4E3JYij2hnEDDP0Rgwikq6,173320,0.552,0.647,0.653,119.672,-8.632,0.0523,0.00124,0.247,0.29
+18,18,John Keek,Do You Love John Keek?,Wedding Song,7qJy9SQil6dBiRCLM38gkh,190000,0.639,0.699,0.734,118.118,-8.564,0.0535,6.62e-05,0.137,0.592
+19,19,Junior Varsity,Junior Varsity,MJ,07EKEnhIoCCwOZiedzGfOt,116096,0.474,0.571,0.843,97.474,-4.647,0.0534,2.11e-06,0.15,0.491
+20,20,Montell Fish,Her Love Still Haunts Me Like a Ghost,Pretend Lovers,0cJTBlSiodwtdA5vdIbHhB,193672,0.647,0.397,0.387,120.039,-7.173,0.25,0.0288,0.104,0.925
+21,21,King Krule,"You Heat Me Up, You Cool Me Down",Rock Bottom - Live,3ELryVcOSsa0r3sT6HTrfb,352493,0.38,0.172,0.7,147.431,-7.143,0.108,0.000286,0.912,0.361
+22,22,DAISY,HAVE A SNACK,DAYDREAMING,05RfpPTgjYosszbrhtpVLO,366672,0.396,0.337,0.708,122.893,-7.261,0.0839,4e-05,0.343,0.175
+23,23,Buddy Ross,Running Around,Running Around,6XuIiBfpHTVc6CNw8qXqqJ,178773,0.395,0.357,0.31,181.88,-20.734,0.0509,0.694,0.103,0.886
+24,24,Andy Shauf,The Party,Begin Again,3n0vpcJCF4Cgb8Q9ju4a5Z,197680,0.836,0.434,0.225,109.859,-10.718,0.0379,2.59e-06,0.0984,0.462
+25,25,Hana Vu,Public Storage,April Fool,023K8UuzkevZtDABzsFypo,181240,0.493,0.0698,0.307,100.031,-15.882,0.0287,0.000744,0.0894,0.845
+26,26,Kid Sistr,Dallas,Dallas,5wfvhsvY3u7T1a6vilnm7Q,294653,0.325,0.0791,0.33,180.553,-10.062,0.0372,0.0055,0.0998,0.489
+27,27,Asiatica,*sigh* Nevermind,*sigh* Nevermind,3vHMtkPfqTmmciY9g4xz28,179320,0.521,0.35,0.645,125.909,-7.639,0.0532,0.00793,0.111,0.179
+28,28,Vampire Weekend,Father of the Bride,Flower Moon (feat. Steve Lacy),3ujuDsiyBLAXAB6dtNwpGu,237347,0.726,0.393,0.759,110.05,-7.151,0.0614,0.00068,0.15,0.529
+29,29,Tyler Cole,We're in Love & the World Is Ending,Sidney Poitier,2E1S0U9CUiSvdmAMVdgevL,260000,0.332,0.121,0.439,106.521,-11.117,0.0463,0.00548,0.0844,0.192
+30,30,Lana Del Rey,Did you know that there's a tunnel under Ocean Blvd,Did you know that there's a tunnel under Ocean Blvd,5U1OEoEW4xnalSAToamwZL,285051,0.431,0.0529,0.34,119.877,-9.384,0.0311,0.0108,0.12,0.794
+31,31,Gorillaz,Skinny Ape,Skinny Ape,3G69pyQGyx49kjsy9waiXf,281259,0.466,0.578,0.868,179.928,-3.442,0.136,0.00673,0.129,0.017
+32,32,Bunk Buddy,Bunk Buddy,Better,4zO8HXmRcaoWifiF4b1UV7,334000,0.414,0.182,0.201,140.946,-15.989,0.175,0.258,0.128,0.965
+33,33,Danielson,Worried Shoes,Worried Shoes,08yXUszdLuligBxAddL7d9,233820,0.42,0.531,0.561,129.598,-9.622,0.0407,3.76e-05,0.14,0.0287
+34,34,Omar Apollo,Evergreen (You Didn't Deserve Me At All) [Stripped],Evergreen (You Didn't Deserve Me At All) - Stripped,4UXhhk1W153Vq5jgIaoc1r,215681,0.414,0.279,0.239,107.433,-9.348,0.0344,0.000797,0.108,0.9
+35,35,PNAU,You Know What I Need,You Know What I Need,5PQFmB2xhRkJTUWDKccBoP,170000,0.768,0.829,0.896,109.959,-3.501,0.0969,0,0.0412,0.0152
+36,36,PinkPantheress,Boy's a liar,Do you miss me?,51joDrjVsC00Y46BG5Ypss,128853,0.647,0.643,0.871,129.928,-7.144,0.0936,0.000534,0.173,0.0976
+37,37,Nilüfer Yanya,midnight sun (king krule remix),midnight sun - king krule remix,04NJEtg1Wj3oMmghmEECPs,303735,0.563,0.298,0.54,136.05,-11.185,0.0333,0.409,0.0801,0.152
+38,38,Szun Waves,Earth Patterns (Expanded Edition),The Return - Bonus Track,34k0IADmxzPBYyjkAwqNxJ,361268,0.604,0.518,0.5,144.005,-10.831,0.0522,0.89,0.107,0.107
+39,39,Mono Moon,One Liner,One Liner,4t7H5fZLsnoUWTS6rPggAs,202120,0.6,0.38,0.767,77.018,-6.629,0.0396,0.00787,0.0831,0.193
+40,40,Dayglow,Life In Motion,Then It All Goes Away - Dancing,1wlnc8dWzVk2PDWiz1IYwG,282000,0.655,0.826,0.566,140.004,-16.391,0.0363,0.853,0.358,0.0521
+41,41,100 gecs,Snake Eyes,Hey Big Man,6jgkLS7ADwuNskZyQ4cNbm,102752,0.466,0.362,0.975,180.221,1.257,0.604,3.08e-06,0.458,0.0767
+42,42,Taylor Swift,Anti-Hero (Acoustic Version),Anti-Hero - Acoustic Version,2d3d9xZutJjmUpntiyHt3F,196473,0.624,0.397,0.332,96.864,-9.989,0.0365,0.000679,0.195,0.597
+43,43,Stormzy,This Is What I Mean,Fire + Water,2jQxSv4fhUKr0zJYgX5NcT,497000,0.459,0.374,0.477,97.035,-10.08,0.209,0.00383,0.107,0.293
+44,44,Les Halles,Eight Fantasies,Opening Fantasy,35DArvr78EJ5Tj3kHGSz1W,295564,0.126,0.103,0.226,85.393,-19.775,0.0394,0.985,0.109,0.928
+45,45,Jimi Hendrix,Angel,Angel,0QenQiXnBs7s9fBWGluD17,263947,0.329,0.241,0.705,133.276,-8.559,0.0801,0.0125,0.265,0.181
+46,46,Vulfpeck,Sauna,Sauna,480wq2eZRYUje04YYElZVG,195223,0.838,0.668,0.338,94.192,-10.592,0.0434,0.12,0.115,0.0299
+47,47,Weyes Blood,"And In The Darkness, Hearts Aglow",Children of the Empire,75vW355BVk8wNjOqfrjfjo,363520,0.371,0.0635,0.477,112.019,-8.482,0.027,0.00963,0.147,0.488
+48,48,JELEEL!,SHOTS! (WITH DENZEL CURRY),SHOTS! (WITH DENZEL CURRY),01Oeql41yunzKzHyIfBWmr,136216,0.665,0.828,0.779,148.027,-4.051,0.0631,0,0.456,0.141
+49,49,Pharrell Williams,Down In Atlanta,Down In Atlanta,5unjCay0kUjuej5ebn4nS4,164041,0.851,0.903,0.819,83.154,-5.173,0.212,0.000153,0.0658,0.337
+50,50,Chance the Rapper,YAH Know,YAH Know,1LzovYtOvkODueiluGyRzF,358000,0.556,0.478,0.873,145.957,-3.645,0.0666,0.0973,0.182,0.0277
+51,51,Gorillaz,New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix],New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix,2c3KCGq6UojB2c8UAFrRON,274142,0.716,0.358,0.897,127.03,-7.185,0.0629,0.262,0.325,0.012
+52,52,BROCKHAMPTON,TM,GOODBYE,7G4yUa1qawOeOImIjDnjcf,169120,0.772,0.327,0.677,128.067,-9.09,0.0847,0.0838,0.105,0.14
+53,53,Tennis,One Night with The Valet,One Night with The Valet,3idyjPuEkDzVSFrA9A8Nh5,113400,0.631,0.621,0.449,150.044,-8.185,0.0369,0.0028,0.0683,0.156
+54,54,John Keek,Do You Love John Keek?,Crash,2ZMuLux8JGW3reAstWsS0g,134990,0.625,0.605,0.674,125.088,-6.348,0.0383,0.0105,0.0786,0.557
+55,55,Jakey,ROMCOM,TOMMY HANKS,0ehhyO5zJtMcgiLM2lSjpx,185233,0.694,0.405,0.453,88.345,-9.098,0.0998,0,0.54,0.404
+56,56,Will Paquin,In Two,In Two,44vJetDdcFOhZhgpk69P41,143162,0.787,0.73,0.463,120.018,-10.009,0.0497,0.0145,0.124,0.899
+57,57,Zack Fox,sipping my tea,sipping my tea,5f4NTBzhDSX8d8eT0HsZEL,102548,0.821,0.905,0.713,134.051,-4.412,0.128,0,0.315,0.407
+58,58,Rahul,ANECDOTE (REMIX) [feat. Teezo Touchdown],ANECDOTE (REMIX) [feat. Teezo Touchdown],7rVeOpYLHAS5luBPIv79t2,171000,0.524,0.327,0.636,160.008,-7.168,0.156,0.000643,0.0787,0.328
+59,59,Fousheé,softCORE,simmer down,4gtzhQZFZPx0xV5ZOLqck0,164080,0.338,0.242,0.971,187.883,-2.805,0.505,0.0107,0.136,0.00814
