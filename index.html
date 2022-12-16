@@ -15738,7 +15738,7 @@ Number of unique genres from 2021-2022:  65
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[68]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[83]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">Xtest</span> <span class="o">=</span> <span class="n">recommendations</span><span class="p">[[</span><span class="s2">&quot;popularity&quot;</span><span class="p">,</span> <span class="s2">&quot;energy&quot;</span><span class="p">,</span> <span class="s2">&quot;instrumentalness&quot;</span><span class="p">,</span> <span class="s2">&quot;liveness&quot;</span><span class="p">,</span> <span class="s2">&quot;acousticness&quot;</span><span class="p">]]</span>
@@ -15748,7 +15748,7 @@ Number of unique genres from 2021-2022:  65
 <span class="n">recommendations</span><span class="p">[</span><span class="s1">&#39;pred_ratings&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">predictions</span>
 
 <span class="c1"># Print all recommendations with a rating of 1</span>
-<span class="n">recommendations</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;pred_ratings==1&#39;</span><span class="p">)</span>
+<span class="n">recommendations</span><span class="p">[[</span><span class="s1">&#39;artist&#39;</span><span class="p">,</span><span class="s1">&#39;album&#39;</span><span class="p">,</span><span class="s1">&#39;track_name&#39;</span><span class="p">,</span><span class="s1">&#39;genre&#39;</span><span class="p">,</span><span class="s1">&#39;pred_ratings&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;pred_ratings==1&#39;</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15766,7 +15766,7 @@ Number of unique genres from 2021-2022:  65
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[68]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[83]:</div>
 
 
 
@@ -15792,19 +15792,7 @@ Number of unique genres from 2021-2022:  65
       <th>artist</th>
       <th>album</th>
       <th>track_name</th>
-      <th>track_id</th>
       <th>genre</th>
-      <th>popularity</th>
-      <th>duration_ms</th>
-      <th>danceability</th>
-      <th>valence</th>
-      <th>energy</th>
-      <th>tempo</th>
-      <th>loudness</th>
-      <th>speechiness</th>
-      <th>instrumentalness</th>
-      <th>liveness</th>
-      <th>acousticness</th>
       <th>pred_ratings</th>
     </tr>
   </thead>
@@ -15814,19 +15802,7 @@ Number of unique genres from 2021-2022:  65
       <td>Clairo</td>
       <td>Sling</td>
       <td>Amoeba</td>
-      <td>0HAqq2GcQKyi3s87GuN7jU</td>
       <td>bedroom pop</td>
-      <td>72</td>
-      <td>228922</td>
-      <td>0.739</td>
-      <td>0.707</td>
-      <td>0.491</td>
-      <td>111.008</td>
-      <td>-11.515</td>
-      <td>0.027</td>
-      <td>0.0366</td>
-      <td>0.1</td>
-      <td>0.791</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15834,19 +15810,7 @@ Number of unique genres from 2021-2022:  65
       <td>Kenny Beats</td>
       <td>LOUIE</td>
       <td>Still</td>
-      <td>2rbSlNYTYboHHWelF0xSAQ</td>
       <td>hip hop</td>
-      <td>55</td>
-      <td>162240</td>
-      <td>0.619</td>
-      <td>0.84</td>
-      <td>0.702</td>
-      <td>140.854</td>
-      <td>-7.847</td>
-      <td>0.124</td>
-      <td>0.0531</td>
-      <td>0.174</td>
-      <td>0.185</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15854,19 +15818,7 @@ Number of unique genres from 2021-2022:  65
       <td>Shelly</td>
       <td>Shelly</td>
       <td>Steeeam</td>
-      <td>09RamrocZneYcLYLRIxYha</td>
       <td>indie pop</td>
-      <td>62</td>
-      <td>170893</td>
-      <td>0.817</td>
-      <td>0.923</td>
-      <td>0.763</td>
-      <td>120.034</td>
-      <td>-11.014</td>
-      <td>0.0373</td>
-      <td>0.158</td>
-      <td>0.124</td>
-      <td>0.546</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15874,19 +15826,7 @@ Number of unique genres from 2021-2022:  65
       <td>Ryan Beatty</td>
       <td>Boy in Jeans</td>
       <td>Party's Over</td>
-      <td>16v5heGSXbMLE2gV1oRfwi</td>
       <td>bedroom soul</td>
-      <td>35</td>
-      <td>245178</td>
-      <td>0.322</td>
-      <td>0.152</td>
-      <td>0.315</td>
-      <td>137.861</td>
-      <td>-9.422</td>
-      <td>0.0298</td>
-      <td>0.000021</td>
-      <td>0.376</td>
-      <td>0.7</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15894,19 +15834,7 @@ Number of unique genres from 2021-2022:  65
       <td>Car Seat Headrest</td>
       <td>Commit Yourself Completely</td>
       <td>Ivy - Live at the Capitol Theater, Olympia, WA</td>
-      <td>4MwhlxglzBBnuPrSYQcy1N</td>
       <td>alternative rock</td>
-      <td>40</td>
-      <td>311313</td>
-      <td>0.707</td>
-      <td>0.499</td>
-      <td>0.16</td>
-      <td>102.14</td>
-      <td>-13.678</td>
-      <td>0.0634</td>
-      <td>0.000018</td>
-      <td>0.946</td>
-      <td>0.92</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15914,19 +15842,7 @@ Number of unique genres from 2021-2022:  65
       <td>Little Simz</td>
       <td>Sometimes I Might Be Introvert</td>
       <td>Protect My Energy</td>
-      <td>64DqILfBnCXzhEDGUHZet1</td>
       <td>alternative r&amp;b</td>
-      <td>48</td>
-      <td>188800</td>
-      <td>0.73</td>
-      <td>0.963</td>
-      <td>0.82</td>
-      <td>115.015</td>
-      <td>-7.458</td>
-      <td>0.0315</td>
-      <td>0.44</td>
-      <td>0.102</td>
-      <td>0.00478</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15934,19 +15850,7 @@ Number of unique genres from 2021-2022:  65
       <td>Turnstile</td>
       <td>GLOW ON</td>
       <td>ALIEN LOVE CALL</td>
-      <td>5o5SdS2vu1PgKblBABGlER</td>
       <td>hardcore punk</td>
-      <td>59</td>
-      <td>176003</td>
-      <td>0.548</td>
-      <td>0.0732</td>
-      <td>0.401</td>
-      <td>126.041</td>
-      <td>-9.376</td>
-      <td>0.0307</td>
-      <td>0.0078</td>
-      <td>0.184</td>
-      <td>0.00282</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15954,19 +15858,7 @@ Number of unique genres from 2021-2022:  65
       <td>underscores</td>
       <td>fishmonger</td>
       <td>Del mar county fair 2008</td>
-      <td>7HTdY4rpT1Wal6ux3t2hE4</td>
       <td>escape room</td>
-      <td>40</td>
-      <td>271111</td>
-      <td>0.712</td>
-      <td>0.529</td>
-      <td>0.3</td>
-      <td>134.917</td>
-      <td>-11.276</td>
-      <td>0.063</td>
-      <td>0.000063</td>
-      <td>0.419</td>
-      <td>0.874</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15974,19 +15866,7 @@ Number of unique genres from 2021-2022:  65
       <td>Remi Wolf</td>
       <td>Live at Electric Lady</td>
       <td>Pink + White - Live at Electric Lady</td>
-      <td>5uJK1i4LU4I5Ai5qCeHonu</td>
       <td>indie pop</td>
-      <td>62</td>
-      <td>233407</td>
-      <td>0.498</td>
-      <td>0.55</td>
-      <td>0.468</td>
-      <td>148.266</td>
-      <td>-6.17</td>
-      <td>0.0502</td>
-      <td>0</td>
-      <td>0.103</td>
-      <td>0.133</td>
       <td>1</td>
     </tr>
     <tr>
@@ -15994,19 +15874,7 @@ Number of unique genres from 2021-2022:  65
       <td>Ball Park Music</td>
       <td>Ball Park Music</td>
       <td>Bad Taste Blues, Pt. III</td>
-      <td>5X4GIF87F0PzUUSTA2TIR4</td>
       <td>australian indie</td>
-      <td>47</td>
-      <td>258093</td>
-      <td>0.49</td>
-      <td>0.522</td>
-      <td>0.652</td>
-      <td>108.943</td>
-      <td>-6.374</td>
-      <td>0.0315</td>
-      <td>0.105</td>
-      <td>0.127</td>
-      <td>0.0168</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16014,19 +15882,7 @@ Number of unique genres from 2021-2022:  65
       <td>See You Next Year</td>
       <td>Pigeons &amp; Planes presents: See You Next Year</td>
       <td>Roses</td>
-      <td>56pP9BFwLTcC54G9SgaV27</td>
       <td>None</td>
-      <td>43</td>
-      <td>174906</td>
-      <td>0.582</td>
-      <td>0.178</td>
-      <td>0.622</td>
-      <td>136.89</td>
-      <td>-8.097</td>
-      <td>0.0703</td>
-      <td>0.000032</td>
-      <td>0.435</td>
-      <td>0.0122</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16034,19 +15890,7 @@ Number of unique genres from 2021-2022:  65
       <td>COIN</td>
       <td>Rainbow Mixtape</td>
       <td>Sagittarius Superstar</td>
-      <td>4E3JYij2hnEDDP0Rgwikq6</td>
       <td>indie pop</td>
-      <td>55</td>
-      <td>173320</td>
-      <td>0.552</td>
-      <td>0.647</td>
-      <td>0.653</td>
-      <td>119.672</td>
-      <td>-8.632</td>
-      <td>0.0523</td>
-      <td>0.00124</td>
-      <td>0.247</td>
-      <td>0.29</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16054,19 +15898,7 @@ Number of unique genres from 2021-2022:  65
       <td>Montell Fish</td>
       <td>Her Love Still Haunts Me Like a Ghost</td>
       <td>Pretend Lovers</td>
-      <td>0cJTBlSiodwtdA5vdIbHhB</td>
       <td>pittsburgh rap</td>
-      <td>64</td>
-      <td>193672</td>
-      <td>0.647</td>
-      <td>0.397</td>
-      <td>0.387</td>
-      <td>120.039</td>
-      <td>-7.173</td>
-      <td>0.25</td>
-      <td>0.0288</td>
-      <td>0.104</td>
-      <td>0.925</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16074,19 +15906,7 @@ Number of unique genres from 2021-2022:  65
       <td>King Krule</td>
       <td>You Heat Me Up, You Cool Me Down</td>
       <td>Rock Bottom - Live</td>
-      <td>3ELryVcOSsa0r3sT6HTrfb</td>
       <td>uk alternative pop</td>
-      <td>41</td>
-      <td>352493</td>
-      <td>0.38</td>
-      <td>0.172</td>
-      <td>0.7</td>
-      <td>147.431</td>
-      <td>-7.143</td>
-      <td>0.108</td>
-      <td>0.000286</td>
-      <td>0.912</td>
-      <td>0.361</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16094,19 +15914,7 @@ Number of unique genres from 2021-2022:  65
       <td>DAISY</td>
       <td>HAVE A SNACK</td>
       <td>DAYDREAMING</td>
-      <td>05RfpPTgjYosszbrhtpVLO</td>
       <td>la pop</td>
-      <td>43</td>
-      <td>366672</td>
-      <td>0.396</td>
-      <td>0.337</td>
-      <td>0.708</td>
-      <td>122.893</td>
-      <td>-7.261</td>
-      <td>0.0839</td>
-      <td>0.00004</td>
-      <td>0.343</td>
-      <td>0.175</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16114,19 +15922,7 @@ Number of unique genres from 2021-2022:  65
       <td>Buddy Ross</td>
       <td>Running Around</td>
       <td>Running Around</td>
-      <td>6XuIiBfpHTVc6CNw8qXqqJ</td>
       <td>None</td>
-      <td>43</td>
-      <td>178773</td>
-      <td>0.395</td>
-      <td>0.357</td>
-      <td>0.31</td>
-      <td>181.88</td>
-      <td>-20.734</td>
-      <td>0.0509</td>
-      <td>0.694</td>
-      <td>0.103</td>
-      <td>0.886</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16134,19 +15930,7 @@ Number of unique genres from 2021-2022:  65
       <td>Lana Del Rey</td>
       <td>Did you know that there's a tunnel under Ocean...</td>
       <td>Did you know that there's a tunnel under Ocean...</td>
-      <td>5U1OEoEW4xnalSAToamwZL</td>
       <td>art pop</td>
-      <td>81</td>
-      <td>285051</td>
-      <td>0.431</td>
-      <td>0.0529</td>
-      <td>0.34</td>
-      <td>119.877</td>
-      <td>-9.384</td>
-      <td>0.0311</td>
-      <td>0.0108</td>
-      <td>0.12</td>
-      <td>0.794</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16154,19 +15938,7 @@ Number of unique genres from 2021-2022:  65
       <td>Gorillaz</td>
       <td>Skinny Ape</td>
       <td>Skinny Ape</td>
-      <td>3G69pyQGyx49kjsy9waiXf</td>
       <td>alternative hip hop</td>
-      <td>69</td>
-      <td>281259</td>
-      <td>0.466</td>
-      <td>0.578</td>
-      <td>0.868</td>
-      <td>179.928</td>
-      <td>-3.442</td>
-      <td>0.136</td>
-      <td>0.00673</td>
-      <td>0.129</td>
-      <td>0.017</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16174,19 +15946,7 @@ Number of unique genres from 2021-2022:  65
       <td>Bunk Buddy</td>
       <td>Bunk Buddy</td>
       <td>Better</td>
-      <td>4zO8HXmRcaoWifiF4b1UV7</td>
       <td>None</td>
-      <td>25</td>
-      <td>334000</td>
-      <td>0.414</td>
-      <td>0.182</td>
-      <td>0.201</td>
-      <td>140.946</td>
-      <td>-15.989</td>
-      <td>0.175</td>
-      <td>0.258</td>
-      <td>0.128</td>
-      <td>0.965</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16194,19 +15954,7 @@ Number of unique genres from 2021-2022:  65
       <td>Omar Apollo</td>
       <td>Evergreen (You Didn't Deserve Me At All) [Stri...</td>
       <td>Evergreen (You Didn't Deserve Me At All) - Str...</td>
-      <td>4UXhhk1W153Vq5jgIaoc1r</td>
       <td>bedroom pop</td>
-      <td>55</td>
-      <td>215681</td>
-      <td>0.414</td>
-      <td>0.279</td>
-      <td>0.239</td>
-      <td>107.433</td>
-      <td>-9.348</td>
-      <td>0.0344</td>
-      <td>0.000797</td>
-      <td>0.108</td>
-      <td>0.9</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16214,19 +15962,7 @@ Number of unique genres from 2021-2022:  65
       <td>PinkPantheress</td>
       <td>Boy's a liar</td>
       <td>Do you miss me?</td>
-      <td>51joDrjVsC00Y46BG5Ypss</td>
       <td>None</td>
-      <td>62</td>
-      <td>128853</td>
-      <td>0.647</td>
-      <td>0.643</td>
-      <td>0.871</td>
-      <td>129.928</td>
-      <td>-7.144</td>
-      <td>0.0936</td>
-      <td>0.000534</td>
-      <td>0.173</td>
-      <td>0.0976</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16234,19 +15970,7 @@ Number of unique genres from 2021-2022:  65
       <td>Nilüfer Yanya</td>
       <td>midnight sun (king krule remix)</td>
       <td>midnight sun - king krule remix</td>
-      <td>04NJEtg1Wj3oMmghmEECPs</td>
       <td>art pop</td>
-      <td>47</td>
-      <td>303735</td>
-      <td>0.563</td>
-      <td>0.298</td>
-      <td>0.54</td>
-      <td>136.05</td>
-      <td>-11.185</td>
-      <td>0.0333</td>
-      <td>0.409</td>
-      <td>0.0801</td>
-      <td>0.152</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16254,19 +15978,7 @@ Number of unique genres from 2021-2022:  65
       <td>Szun Waves</td>
       <td>Earth Patterns (Expanded Edition)</td>
       <td>The Return - Bonus Track</td>
-      <td>34k0IADmxzPBYyjkAwqNxJ</td>
       <td>chamber psych</td>
-      <td>31</td>
-      <td>361268</td>
-      <td>0.604</td>
-      <td>0.518</td>
-      <td>0.5</td>
-      <td>144.005</td>
-      <td>-10.831</td>
-      <td>0.0522</td>
-      <td>0.89</td>
-      <td>0.107</td>
-      <td>0.107</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16274,19 +15986,7 @@ Number of unique genres from 2021-2022:  65
       <td>Dayglow</td>
       <td>Life In Motion</td>
       <td>Then It All Goes Away - Dancing</td>
-      <td>1wlnc8dWzVk2PDWiz1IYwG</td>
       <td>austindie</td>
-      <td>40</td>
-      <td>282000</td>
-      <td>0.655</td>
-      <td>0.826</td>
-      <td>0.566</td>
-      <td>140.004</td>
-      <td>-16.391</td>
-      <td>0.0363</td>
-      <td>0.853</td>
-      <td>0.358</td>
-      <td>0.0521</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16294,19 +15994,7 @@ Number of unique genres from 2021-2022:  65
       <td>100 gecs</td>
       <td>Snake Eyes</td>
       <td>Hey Big Man</td>
-      <td>6jgkLS7ADwuNskZyQ4cNbm</td>
       <td>escape room</td>
-      <td>59</td>
-      <td>102752</td>
-      <td>0.466</td>
-      <td>0.362</td>
-      <td>0.975</td>
-      <td>180.221</td>
-      <td>1.257</td>
-      <td>0.604</td>
-      <td>0.000003</td>
-      <td>0.458</td>
-      <td>0.0767</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16314,19 +16002,7 @@ Number of unique genres from 2021-2022:  65
       <td>Taylor Swift</td>
       <td>Anti-Hero (Acoustic Version)</td>
       <td>Anti-Hero - Acoustic Version</td>
-      <td>2d3d9xZutJjmUpntiyHt3F</td>
       <td>pop</td>
-      <td>73</td>
-      <td>196473</td>
-      <td>0.624</td>
-      <td>0.397</td>
-      <td>0.332</td>
-      <td>96.864</td>
-      <td>-9.989</td>
-      <td>0.0365</td>
-      <td>0.000679</td>
-      <td>0.195</td>
-      <td>0.597</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16334,19 +16010,7 @@ Number of unique genres from 2021-2022:  65
       <td>Stormzy</td>
       <td>This Is What I Mean</td>
       <td>Fire + Water</td>
-      <td>2jQxSv4fhUKr0zJYgX5NcT</td>
       <td>grime</td>
-      <td>66</td>
-      <td>497000</td>
-      <td>0.459</td>
-      <td>0.374</td>
-      <td>0.477</td>
-      <td>97.035</td>
-      <td>-10.08</td>
-      <td>0.209</td>
-      <td>0.00383</td>
-      <td>0.107</td>
-      <td>0.293</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16354,19 +16018,7 @@ Number of unique genres from 2021-2022:  65
       <td>Les Halles</td>
       <td>Eight Fantasies</td>
       <td>Opening Fantasy</td>
-      <td>35DArvr78EJ5Tj3kHGSz1W</td>
       <td>None</td>
-      <td>32</td>
-      <td>295564</td>
-      <td>0.126</td>
-      <td>0.103</td>
-      <td>0.226</td>
-      <td>85.393</td>
-      <td>-19.775</td>
-      <td>0.0394</td>
-      <td>0.985</td>
-      <td>0.109</td>
-      <td>0.928</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16374,19 +16026,7 @@ Number of unique genres from 2021-2022:  65
       <td>Jimi Hendrix</td>
       <td>Angel</td>
       <td>Angel</td>
-      <td>0QenQiXnBs7s9fBWGluD17</td>
       <td>acid rock</td>
-      <td>65</td>
-      <td>263947</td>
-      <td>0.329</td>
-      <td>0.241</td>
-      <td>0.705</td>
-      <td>133.276</td>
-      <td>-8.559</td>
-      <td>0.0801</td>
-      <td>0.0125</td>
-      <td>0.265</td>
-      <td>0.181</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16394,19 +16034,7 @@ Number of unique genres from 2021-2022:  65
       <td>Vulfpeck</td>
       <td>Sauna</td>
       <td>Sauna</td>
-      <td>480wq2eZRYUje04YYElZVG</td>
       <td>ann arbor indie</td>
-      <td>57</td>
-      <td>195223</td>
-      <td>0.838</td>
-      <td>0.668</td>
-      <td>0.338</td>
-      <td>94.192</td>
-      <td>-10.592</td>
-      <td>0.0434</td>
-      <td>0.12</td>
-      <td>0.115</td>
-      <td>0.0299</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16414,19 +16042,7 @@ Number of unique genres from 2021-2022:  65
       <td>Weyes Blood</td>
       <td>And In The Darkness, Hearts Aglow</td>
       <td>Children of the Empire</td>
-      <td>75vW355BVk8wNjOqfrjfjo</td>
       <td>art pop</td>
-      <td>60</td>
-      <td>363520</td>
-      <td>0.371</td>
-      <td>0.0635</td>
-      <td>0.477</td>
-      <td>112.019</td>
-      <td>-8.482</td>
-      <td>0.027</td>
-      <td>0.00963</td>
-      <td>0.147</td>
-      <td>0.488</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16434,19 +16050,7 @@ Number of unique genres from 2021-2022:  65
       <td>JELEEL!</td>
       <td>SHOTS! (WITH DENZEL CURRY)</td>
       <td>SHOTS! (WITH DENZEL CURRY)</td>
-      <td>01Oeql41yunzKzHyIfBWmr</td>
       <td>rhode island rap</td>
-      <td>63</td>
-      <td>136216</td>
-      <td>0.665</td>
-      <td>0.828</td>
-      <td>0.779</td>
-      <td>148.027</td>
-      <td>-4.051</td>
-      <td>0.0631</td>
-      <td>0</td>
-      <td>0.456</td>
-      <td>0.141</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16454,19 +16058,7 @@ Number of unique genres from 2021-2022:  65
       <td>Pharrell Williams</td>
       <td>Down In Atlanta</td>
       <td>Down In Atlanta</td>
-      <td>5unjCay0kUjuej5ebn4nS4</td>
       <td>hip hop</td>
-      <td>84</td>
-      <td>164041</td>
-      <td>0.851</td>
-      <td>0.903</td>
-      <td>0.819</td>
-      <td>83.154</td>
-      <td>-5.173</td>
-      <td>0.212</td>
-      <td>0.000153</td>
-      <td>0.0658</td>
-      <td>0.337</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16474,19 +16066,7 @@ Number of unique genres from 2021-2022:  65
       <td>Chance the Rapper</td>
       <td>YAH Know</td>
       <td>YAH Know</td>
-      <td>1LzovYtOvkODueiluGyRzF</td>
       <td>chicago rap</td>
-      <td>63</td>
-      <td>358000</td>
-      <td>0.556</td>
-      <td>0.478</td>
-      <td>0.873</td>
-      <td>145.957</td>
-      <td>-3.645</td>
-      <td>0.0666</td>
-      <td>0.0973</td>
-      <td>0.182</td>
-      <td>0.0277</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16494,19 +16074,7 @@ Number of unique genres from 2021-2022:  65
       <td>Gorillaz</td>
       <td>New Gold (feat. Tame Impala and Bootie Brown) ...</td>
       <td>New Gold (feat. Tame Impala and Bootie Brown) ...</td>
-      <td>2c3KCGq6UojB2c8UAFrRON</td>
       <td>alternative hip hop</td>
-      <td>70</td>
-      <td>274142</td>
-      <td>0.716</td>
-      <td>0.358</td>
-      <td>0.897</td>
-      <td>127.03</td>
-      <td>-7.185</td>
-      <td>0.0629</td>
-      <td>0.262</td>
-      <td>0.325</td>
-      <td>0.012</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16514,19 +16082,7 @@ Number of unique genres from 2021-2022:  65
       <td>BROCKHAMPTON</td>
       <td>TM</td>
       <td>GOODBYE</td>
-      <td>7G4yUa1qawOeOImIjDnjcf</td>
       <td>boy band</td>
-      <td>57</td>
-      <td>169120</td>
-      <td>0.772</td>
-      <td>0.327</td>
-      <td>0.677</td>
-      <td>128.067</td>
-      <td>-9.09</td>
-      <td>0.0847</td>
-      <td>0.0838</td>
-      <td>0.105</td>
-      <td>0.14</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16534,19 +16090,7 @@ Number of unique genres from 2021-2022:  65
       <td>Jakey</td>
       <td>ROMCOM</td>
       <td>TOMMY HANKS</td>
-      <td>0ehhyO5zJtMcgiLM2lSjpx</td>
       <td>None</td>
-      <td>58</td>
-      <td>185233</td>
-      <td>0.694</td>
-      <td>0.405</td>
-      <td>0.453</td>
-      <td>88.345</td>
-      <td>-9.098</td>
-      <td>0.0998</td>
-      <td>0</td>
-      <td>0.54</td>
-      <td>0.404</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16554,19 +16098,7 @@ Number of unique genres from 2021-2022:  65
       <td>Will Paquin</td>
       <td>In Two</td>
       <td>In Two</td>
-      <td>44vJetDdcFOhZhgpk69P41</td>
       <td>weirdcore</td>
-      <td>52</td>
-      <td>143162</td>
-      <td>0.787</td>
-      <td>0.73</td>
-      <td>0.463</td>
-      <td>120.018</td>
-      <td>-10.009</td>
-      <td>0.0497</td>
-      <td>0.0145</td>
-      <td>0.124</td>
-      <td>0.899</td>
       <td>1</td>
     </tr>
     <tr>
@@ -16574,19 +16106,7 @@ Number of unique genres from 2021-2022:  65
       <td>Zack Fox</td>
       <td>sipping my tea</td>
       <td>sipping my tea</td>
-      <td>5f4NTBzhDSX8d8eT0HsZEL</td>
       <td>meme rap</td>
-      <td>57</td>
-      <td>102548</td>
-      <td>0.821</td>
-      <td>0.905</td>
-      <td>0.713</td>
-      <td>134.051</td>
-      <td>-4.412</td>
-      <td>0.128</td>
-      <td>0</td>
-      <td>0.315</td>
-      <td>0.407</td>
       <td>1</td>
     </tr>
   </tbody>
