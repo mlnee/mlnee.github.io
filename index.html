@@ -14565,16 +14565,16 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="CMSC320-Final-Project:-How-Well-Does-Spotify-Recommend-Music?">CMSC320 Final Project: How Well Does Spotify Recommend Music?<a class="anchor-link" href="#CMSC320-Final-Project:-How-Well-Does-Spotify-Recommend-Music?">&#182;</a></h2><h3 id="Megan-Nee">Megan Nee<a class="anchor-link" href="#Megan-Nee">&#182;</a></h3>
+<h1 id="CMSC320-Final-Project:-How-Well-Does-Spotify-Recommend-Music?">CMSC320 Final Project: How Well Does Spotify Recommend Music?<a class="anchor-link" href="#CMSC320-Final-Project:-How-Well-Does-Spotify-Recommend-Music?">&#182;</a></h1><h2 id="Megan-Nee">Megan Nee<a class="anchor-link" href="#Megan-Nee">&#182;</a></h2>
 </div>
 </div>
 </div>
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>I've always been really interested in data and data analysis surrounding my Spotify listening data. Whenever a new app or website comes out that can tell you who your top artists are, or how obscure your music taste is, I'm always ready to try it. In my tutorial, I wanted to showcase my interest in music and utilize Spotify's web API to analyze my own listening data.<br>
-Every year, Spotify releases a "Spotify Wrapped" where it gives you an overview of your top artists and songs from that year, and puts your top 100 songs in a playlist. I looked through my Spotify playlists and found that I have every one since 2016 saved.<br>
-For this project, I decided to use the 2016, 2017, 2021, and 2022 playlists to explore the way my taste in music has changed over time. Using machine learning, I also wanted to see how good Spotify is at recommending tracks through their Discover Weekly and Release Radar playlists.</p>
+<p>I've always been really interested in data and data analysis surrounding my Spotify listening data. Whenever a new app or website comes out that can tell you who your top artists are, or how obscure your music taste is, I'm always ready to try it. In my tutorial, I wanted to showcase my interest in music and utilize Spotify's web API to analyze my own listening data.</p>
+<p>Every year, Spotify releases a "Spotify Wrapped" where it gives you an overview of your top artists and songs from that year, and puts your top 100 songs in a playlist. I looked through my Spotify playlists and found that I have every one since 2016 saved.</p>
+<p>For this project, I decided to use the 2016, 2017, 2021, and 2022 playlists to explore the way my taste in music has changed over time. Using machine learning, I also wanted to see how good Spotify is at recommending tracks through their Discover Weekly and Release Radar playlists.</p>
 
 </div>
 </div>
@@ -14582,7 +14582,7 @@ For this project, I decided to use the 2016, 2017, 2021, and 2022 playlists to e
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h4 id="Getting-the-Data">Getting the Data<a class="anchor-link" href="#Getting-the-Data">&#182;</a></h4>
+<h2 id="Getting-the-Data">Getting the Data<a class="anchor-link" href="#Getting-the-Data">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -14594,12 +14594,12 @@ First, I had to create a <a href="https://developer.spotify.com/">Spotify develo
 
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[2]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">pip</span> install spotipy
@@ -14619,69 +14619,12 @@ First, I had to create a <a href="https://developer.spotify.com/">Spotify develo
 </div>
 </div>
 
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Collecting spotipy
-  Downloading spotipy-2.22.0-py3-none-any.whl (28 kB)
-Requirement already satisfied: requests&gt;=2.25.0 in /opt/conda/lib/python3.9/site-packages (from spotipy) (2.27.1)
-Requirement already satisfied: six&gt;=1.15.0 in /opt/conda/lib/python3.9/site-packages (from spotipy) (1.16.0)
-Collecting redis&gt;=3.5.3
-  Downloading redis-4.4.0-py3-none-any.whl (236 kB)
-     |████████████████████████████████| 236 kB 11.1 MB/s            
-Requirement already satisfied: urllib3&gt;=1.26.0 in /opt/conda/lib/python3.9/site-packages (from spotipy) (1.26.8)
-Collecting async-timeout&gt;=4.0.2
-  Downloading async_timeout-4.0.2-py3-none-any.whl (5.8 kB)
-Requirement already satisfied: charset-normalizer~=2.0.0 in /opt/conda/lib/python3.9/site-packages (from requests&gt;=2.25.0-&gt;spotipy) (2.0.10)
-Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/conda/lib/python3.9/site-packages (from requests&gt;=2.25.0-&gt;spotipy) (2021.10.8)
-Requirement already satisfied: idna&lt;4,&gt;=2.5 in /opt/conda/lib/python3.9/site-packages (from requests&gt;=2.25.0-&gt;spotipy) (3.3)
-Installing collected packages: async-timeout, redis, spotipy
-Successfully installed async-timeout-4.0.2 redis-4.4.0 spotipy-2.22.0
-Note: you may need to restart the kernel to use updated packages.
-Collecting python-dotenv
-  Downloading python_dotenv-0.21.0-py3-none-any.whl (18 kB)
-Installing collected packages: python-dotenv
-Successfully installed python-dotenv-0.21.0
-Note: you may need to restart the kernel to use updated packages.
-</pre>
-</div>
-</div>
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[2]:</div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>True</pre>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[45]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Load the client secret from environment variables</span>
@@ -14709,7 +14652,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Playlist function referenced from <a href="https://towardsdatascience.com/how-to-create-large-music-datasets-using-spotipy-40e7242cc6a6">https://towardsdatascience.com/how-to-create-large-music-datasets-using-spotipy-40e7242cc6a6</a></p>
+<p>Playlist function referenced from <a href="https://towardsdatascience.com/how-to-create-large-music-datasets-using-spotipy-40e7242cc6a6">this article</a>.</p>
 
 </div>
 </div>
@@ -14718,7 +14661,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[4]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[46]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
@@ -14734,7 +14677,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[5]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[47]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">call_playlist</span><span class="p">(</span><span class="n">creator</span><span class="p">,</span> <span class="n">playlist_id</span><span class="p">):</span>
@@ -14800,7 +14743,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[6]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[48]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">top22</span> <span class="o">=</span> <span class="n">call_playlist</span><span class="p">(</span><span class="s2">&quot;mlnee&quot;</span><span class="p">,</span> <span class="s2">&quot;1LX2YGoVLvzSeoCIloxAfO&quot;</span><span class="p">)</span>
@@ -14817,7 +14760,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[7]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[49]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">top21</span> <span class="o">=</span> <span class="n">call_playlist</span><span class="p">(</span><span class="s2">&quot;mlnee&quot;</span><span class="p">,</span> <span class="s2">&quot;575crUuhYbRPtZVvmWzLiW&quot;</span><span class="p">)</span>
@@ -14834,7 +14777,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[8]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[50]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">top17</span> <span class="o">=</span> <span class="n">call_playlist</span><span class="p">(</span><span class="s2">&quot;mlnee&quot;</span><span class="p">,</span> <span class="s2">&quot;37i9dQZF1E9RZdr9sb7A6W&quot;</span><span class="p">)</span>
@@ -14851,7 +14794,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[51]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">top16</span> <span class="o">=</span> <span class="n">call_playlist</span><span class="p">(</span><span class="s2">&quot;mlnee&quot;</span><span class="p">,</span> <span class="s2">&quot;37i9dQZF1CyNE3u4Gr5JxR&quot;</span><span class="p">)</span>
@@ -14868,10 +14811,11 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[52]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">top_playlists</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">top22</span><span class="p">,</span> <span class="n">top21</span><span class="p">])</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Concat all of the playlists</span>
+<span class="n">top_playlists</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">top22</span><span class="p">,</span> <span class="n">top21</span><span class="p">])</span>
 <span class="n">top_playlists</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">top_playlists</span><span class="p">,</span> <span class="n">top17</span><span class="p">])</span>
 <span class="n">top_playlists</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">top_playlists</span><span class="p">,</span> <span class="n">top16</span><span class="p">])</span>
 
@@ -14889,7 +14833,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[53]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">top_playlists</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">&quot;MyData/top_playlists&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
@@ -14913,7 +14857,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[54]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">recommendations</span> <span class="o">=</span> <span class="n">call_playlist</span><span class="p">(</span><span class="s2">&quot;mlnee&quot;</span><span class="p">,</span> <span class="s2">&quot;4ntsmAipoBpDYGr9k01NT5&quot;</span><span class="p">)</span>
@@ -14930,7 +14874,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[55]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">recommendations</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s2">&quot;MyData/recommendations&quot;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
@@ -14945,7 +14889,15 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h4 id="Data-Exploration">Data Exploration<a class="anchor-link" href="#Data-Exploration">&#182;</a></h4>
+<p>If you're following this tutorial, you can either reference the code above to use your own Spotify data, or you can find these datasets <a href="https://github.com/mlnee/mlnee.github.io/tree/main/MyData">here</a>.</p>
+
+</div>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Data-Exploration">Data Exploration<a class="anchor-link" href="#Data-Exploration">&#182;</a></h2>
 </div>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -14953,7 +14905,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[56]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
@@ -14974,15 +14926,16 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[15]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[57]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Drop any missing values</span>
 <span class="n">top_playlists</span><span class="o">.</span><span class="n">dropna</span><span class="p">()</span>
 
 <span class="c1"># Set columns to correct types</span>
-<span class="n">top_playlists</span> <span class="o">=</span> <span class="n">top_playlists</span><span class="o">.</span><span class="n">astype</span><span class="p">({</span><span class="s1">&#39;popularity&#39;</span><span class="p">:</span><span class="s1">&#39;int&#39;</span><span class="p">,</span><span class="s1">&#39;genre&#39;</span><span class="p">:</span><span class="s1">&#39;str&#39;</span><span class="p">,</span><span class="s1">&#39;duration_ms&#39;</span><span class="p">:</span><span class="s1">&#39;int&#39;</span><span class="p">,</span><span class="s1">&#39;danceability&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;valence&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;energy&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span>
-                                     <span class="s1">&#39;tempo&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;loudness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;speechiness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;instrumentalness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;liveness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span>
+<span class="n">top_playlists</span> <span class="o">=</span> <span class="n">top_playlists</span><span class="o">.</span><span class="n">astype</span><span class="p">({</span><span class="s1">&#39;popularity&#39;</span><span class="p">:</span><span class="s1">&#39;int&#39;</span><span class="p">,</span><span class="s1">&#39;genre&#39;</span><span class="p">:</span><span class="s1">&#39;str&#39;</span><span class="p">,</span><span class="s1">&#39;duration_ms&#39;</span><span class="p">:</span><span class="s1">&#39;int&#39;</span><span class="p">,</span><span class="s1">&#39;danceability&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span>
+                                      <span class="s1">&#39;valence&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;energy&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;tempo&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;loudness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span>
+                                      <span class="s1">&#39;speechiness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;instrumentalness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span><span class="s1">&#39;liveness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">,</span>
                                      <span class="s1">&#39;acousticness&#39;</span><span class="p">:</span><span class="s1">&#39;float&#39;</span><span class="p">})</span>
 <span class="n">top_playlists</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
 </pre></div>
@@ -15002,7 +14955,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[15]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[57]:</div>
 
 
 
@@ -15169,7 +15122,7 @@ Note: you may need to restart the kernel to use updated packages.
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[16]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[58]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Get frequency count of top 5 genres from both ratings</span>
@@ -15230,7 +15183,7 @@ Name: genre, dtype: int64
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[17]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[59]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Get number of unique genres in each rating</span>
@@ -15283,7 +15236,7 @@ Number of unique genres from 2021-2022:  65
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[18]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[60]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">ax</span> <span class="o">=</span> <span class="n">sns</span><span class="o">.</span><span class="n">violinplot</span><span class="p">(</span><span class="n">data</span><span class="o">=</span><span class="n">top_playlists</span><span class="p">,</span> <span class="n">x</span><span class="o">=</span><span class="s1">&#39;rating&#39;</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="s1">&#39;popularity&#39;</span><span class="p">,</span> <span class="n">palette</span><span class="o">=</span><span class="s1">&#39;Paired&#39;</span><span class="p">)</span>
@@ -15327,8 +15280,8 @@ Number of unique genres from 2021-2022:  65
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>According to Spotify API documentation, "the popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are. Generally speaking, songs that are being played a lot now will have a higher popularity than songs that were played a lot in the past." The violin plot makes sense after reading this, because songs I was listening to in 2016-2017 were probably popular at the time, but less so now. This explains the distribution on the 0 rating songs being more skewed upwards and also being bimodal. The lower peak is around 0 popularity. The 1 rated songs are more popular right now with a clear peak around 60 popularity and a much smaller peak around 0.<br>
-Through this plot, I can infer that the tracks that I am listening to right now are decently popular with a few that are more underground.</p>
+<p>According to Spotify API documentation, "the popularity of a track is a value between 0 and 100, with 100 being the most popular. The popularity is calculated by algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are. Generally speaking, songs that are being played a lot now will have a higher popularity than songs that were played a lot in the past." The violin plot makes sense after reading this, because songs I was listening to in 2016-2017 were probably popular at the time, but less so now. This explains the distribution on the 0 rating songs being more skewed upwards and also being bimodal. The lower peak is around 0 popularity. The 1 rated songs are more popular right now with a clear peak around 60 popularity and a much smaller peak around 0.</p>
+<p>Through this plot, I can infer that the tracks that I am listening to right now are decently popular with a few that are more underground.</p>
 
 </div>
 </div>
@@ -15336,8 +15289,8 @@ Through this plot, I can infer that the tracks that I am listening to right now 
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Spotify splits its features by mood (danceability, valence, energy, and tempo), properties (loudness, speechiness, instrumentalness), and context (liveness, acousticness). The features that are most interesting to me are the ones related to mood, so I will do some exploratory data analysis and visualizations of those.<br>
-The Spotify web API defines these features in the <a href="https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features">documentation</a> as follows:</p>
+<p>Spotify splits its features by mood (danceability, valence, energy, and tempo), properties (loudness, speechiness, instrumentalness), and context (liveness, acousticness). The features that are most interesting to me are the ones related to mood, so I will do some exploratory data analysis and visualizations of those.</p>
+<p>The Spotify web API defines these features in the <a href="https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features">documentation</a> as follows:</p>
 <ul>
 <li>Danceability: "describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable."</li>
 <li>Valence: "a measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry)."</li>
@@ -15353,7 +15306,7 @@ The Spotify web API defines these features in the <a href="https://developer.spo
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[19]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[61]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
@@ -15402,8 +15355,8 @@ The Spotify web API defines these features in the <a href="https://developer.spo
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Here, we can see there is correlation between all of these features. Danceability and energy, and valence and tempo are positively correlated. This makes a lot of sense, because as energy of a track goes up, it becomes more danceable; and as the tempo decreases, the valence is lower because songs become slower and more sad.<br>
-In this visualization of the audio features for the whole dataset, it's clear that the tracks lean towards a lower valence and a higher energy. Danceability is pretty evenly distributed around the 0.5 mark.</p>
+<p>Here, we can see there is correlation between all of these features. Danceability and energy, and valence and tempo are positively correlated. This makes a lot of sense, because as energy of a track goes up, it becomes more danceable; and as the tempo decreases, the valence is lower because songs become slower and more sad.</p>
+<p>In this visualization of the audio features for the whole dataset, it's clear that the tracks lean towards a lower valence and a higher energy. Danceability is pretty evenly distributed around the 0.5 mark.</p>
 
 </div>
 </div>
@@ -15412,10 +15365,11 @@ In this visualization of the audio features for the whole dataset, it's clear th
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[20]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[62]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Plot each of the audio features split by rating</span>
+<span class="n">fig</span><span class="p">,</span> <span class="n">axes</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">subplots</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">5</span><span class="p">))</span>
 <span class="n">fig</span><span class="o">.</span><span class="n">suptitle</span><span class="p">(</span><span class="s2">&quot;Mood Audio Features Based on Rating&quot;</span><span class="p">)</span>
 
 <span class="n">sns</span><span class="o">.</span><span class="n">violinplot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">data</span><span class="o">=</span><span class="n">top_playlists</span><span class="p">,</span> <span class="n">x</span><span class="o">=</span><span class="s1">&#39;rating&#39;</span><span class="p">,</span> <span class="n">y</span><span class="o">=</span><span class="s1">&#39;danceability&#39;</span><span class="p">,</span> <span class="n">palette</span><span class="o">=</span><span class="s1">&#39;Paired&#39;</span><span class="p">)</span>
@@ -15470,8 +15424,8 @@ In this visualization of the audio features for the whole dataset, it's clear th
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Here, I wanted to compare these features by their ratings. Through these violin plots, we can see that the danceability of the tracks have slightly increased and the spread has also increased, with the values spanning the whole range from 0 to 1. We can also see that the valence has increased slightly, again with a higher spread and more broad distribution. Energy has gone slightly down, with a more normalized distribution around the mean for the rating of 1 compared to the rating of 0. Average tempo has stayed approximately the same but with a narrower distribution. These comparisons will be helpful when we want to determine the ratings for the recommended tracks.<br>
-The broader distribution of these audio features makes sense when thinking about the increase in genres that I am listening to. With a greater number of genres, there's a big difference in the moods that the tracks bring.</p>
+<p>Here, I wanted to compare these features by their ratings. Through these violin plots, we can see that the danceability of the tracks have slightly increased and the spread has also increased, with the values spanning the whole range from 0 to 1. We can also see that the valence has increased slightly, again with a higher spread and more broad distribution. Energy has gone slightly down, with a more normalized distribution around the mean for the rating of 1 compared to the rating of 0. Average tempo has stayed approximately the same but with a narrower distribution. These comparisons will be helpful when we want to determine the ratings for the recommended tracks.</p>
+<p>The broader distribution of these audio features makes sense when thinking about the increase in genres that I am listening to. With a greater number of genres, there's a big difference in the moods that the tracks bring.</p>
 
 </div>
 </div>
@@ -15479,7 +15433,7 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Hypothesis-Testing">Hypothesis Testing<a class="anchor-link" href="#Hypothesis-Testing">&#182;</a></h3>
+<h2 id="Hypothesis-Testing">Hypothesis Testing<a class="anchor-link" href="#Hypothesis-Testing">&#182;</a></h2>
 </div>
 </div>
 </div>
@@ -15495,10 +15449,11 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[21]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[63]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">ax</span> <span class="o">=</span> <span class="n">sns</span><span class="o">.</span><span class="n">heatmap</span><span class="p">(</span><span class="n">top_playlists</span><span class="o">.</span><span class="n">corr</span><span class="p">()[[</span><span class="s1">&#39;rating&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span><span class="o">=</span><span class="s1">&#39;rating&#39;</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">),</span> <span class="n">vmin</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create a heatmap to show the correlation coefficients of each feature to the rating</span>
+<span class="n">ax</span> <span class="o">=</span> <span class="n">sns</span><span class="o">.</span><span class="n">heatmap</span><span class="p">(</span><span class="n">top_playlists</span><span class="o">.</span><span class="n">corr</span><span class="p">()[[</span><span class="s1">&#39;rating&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="n">by</span><span class="o">=</span><span class="s1">&#39;rating&#39;</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">),</span> <span class="n">vmin</span><span class="o">=-</span><span class="mi">1</span><span class="p">,</span> 
                  <span class="n">vmax</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">annot</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">cmap</span><span class="o">=</span><span class="s1">&#39;BrBG&#39;</span><span class="p">)</span>
 <span class="n">ax</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s1">&#39;Features Correlating with Rating&#39;</span><span class="p">)</span>
 
@@ -15558,7 +15513,7 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[22]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[64]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">statsmodels.api</span> <span class="k">as</span> <span class="nn">sm</span>
@@ -15590,19 +15545,6 @@ The broader distribution of these audio features makes sense when thinking about
     <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 
 
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="application/vnd.jupyter.stderr">
-<pre>/opt/conda/lib/python3.9/site-packages/statsmodels/compat/pandas.py:65: FutureWarning: pandas.Int64Index is deprecated and will be removed from pandas in a future version. Use pandas.Index with the appropriate dtype instead.
-  from pandas import Int64Index as NumericIndex
-</pre>
-</div>
-</div>
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
 <pre>Optimization terminated successfully.
          Current function value: 0.533425
@@ -15620,7 +15562,7 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[23]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[65]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">log_reg</span><span class="o">.</span><span class="n">summary</span><span class="p">()</span>
@@ -15641,7 +15583,7 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[23]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[65]:</div>
 
 
 
@@ -15661,7 +15603,7 @@ The broader distribution of these audio features makes sense when thinking about
   <th>Date:</th>            <td>Fri, 16 Dec 2022</td> <th>  Pseudo R-squ.:     </th>  <td>0.2304</td>  
 </tr>
 <tr>
-  <th>Time:</th>                <td>11:19:29</td>     <th>  Log-Likelihood:    </th> <td> -210.17</td> 
+  <th>Time:</th>                <td>21:46:48</td>     <th>  Log-Likelihood:    </th> <td> -210.17</td> 
 </tr>
 <tr>
   <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -273.08</td> 
@@ -15708,24 +15650,21 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>After fitting the logistic regression model to our data, we can see that the p-values for most of the features that we hypothesized were good coefficients are less than 0.05 which means that they are statistically significant in our model. Danceability and loudness had p-values &gt; 0.05 which means that they are not correlated with the ratings and we cannot reject the null hypotehsis.</p>
+<p>After fitting the logistic regression model to our data, we can see that the p-values for most of the features that we hypothesized were good coefficients are less than 0.05 which means that they are statistically significant in our model. Danceability and loudness had p-values &gt; 0.05 which means that they are not correlated with the ratings and we cannot reject the null hypothesis.</p>
 
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[29]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[66]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># defining the dependent and independent variables</span>
 <span class="n">Xtrain</span> <span class="o">=</span> <span class="n">top_playlists</span><span class="p">[[</span><span class="s2">&quot;popularity&quot;</span><span class="p">,</span> <span class="s2">&quot;energy&quot;</span><span class="p">,</span> <span class="s2">&quot;instrumentalness&quot;</span><span class="p">,</span> <span class="s2">&quot;liveness&quot;</span><span class="p">,</span> <span class="s2">&quot;acousticness&quot;</span><span class="p">]]</span>
 <span class="n">ytrain</span> <span class="o">=</span> <span class="n">top_playlists</span><span class="p">[[</span><span class="s1">&#39;rating&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">values</span><span class="o">.</span><span class="n">flatten</span><span class="p">()</span>
-  
-<span class="c1"># building the model and fitting the data</span>
-<span class="n">log_reg</span> <span class="o">=</span> <span class="n">sm</span><span class="o">.</span><span class="n">Logit</span><span class="p">(</span><span class="n">ytrain</span><span class="p">,</span> <span class="n">Xtrain</span><span class="p">)</span><span class="o">.</span><span class="n">fit</span><span class="p">()</span>
 </pre></div>
 
      </div>
@@ -15733,125 +15672,26 @@ The broader distribution of these audio features makes sense when thinking about
 </div>
 </div>
 
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
 </div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Now, we can run a logistic regression cross-validation classifier from scikit learn to train our model and use it to predict which recommended songs would get a rating of 1. We'll only use the features that were statistically significant, so we'll take out danceability and loudness.</p>
 
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>Optimization terminated successfully.
-         Current function value: 0.535692
-         Iterations 12
-</pre>
 </div>
 </div>
-
-</div>
-
-</div>
-
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[30]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">log_reg</span><span class="o">.</span><span class="n">summary</span><span class="p">()</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[30]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-<table class="simpletable">
-<caption>Logit Regression Results</caption>
-<tr>
-  <th>Dep. Variable:</th>           <td>y</td>        <th>  No. Observations:  </th>  <td>   394</td>  
-</tr>
-<tr>
-  <th>Model:</th>                 <td>Logit</td>      <th>  Df Residuals:      </th>  <td>   389</td>  
-</tr>
-<tr>
-  <th>Method:</th>                 <td>MLE</td>       <th>  Df Model:          </th>  <td>     4</td>  
-</tr>
-<tr>
-  <th>Date:</th>            <td>Fri, 16 Dec 2022</td> <th>  Pseudo R-squ.:     </th>  <td>0.2271</td>  
-</tr>
-<tr>
-  <th>Time:</th>                <td>11:27:17</td>     <th>  Log-Likelihood:    </th> <td> -211.06</td> 
-</tr>
-<tr>
-  <th>converged:</th>             <td>True</td>       <th>  LL-Null:           </th> <td> -273.08</td> 
-</tr>
-<tr>
-  <th>Covariance Type:</th>     <td>nonrobust</td>    <th>  LLR p-value:       </th> <td>7.342e-26</td>
-</tr>
-</table>
-<table class="simpletable">
-<tr>
-          <td></td>            <th>coef</th>     <th>std err</th>      <th>z</th>      <th>P>|z|</th>  <th>[0.025</th>    <th>0.975]</th>  
-</tr>
-<tr>
-  <th>popularity</th>       <td>    0.0292</td> <td>    0.005</td> <td>    5.944</td> <td> 0.000</td> <td>    0.020</td> <td>    0.039</td>
-</tr>
-<tr>
-  <th>energy</th>           <td>   -3.0054</td> <td>    0.435</td> <td>   -6.914</td> <td> 0.000</td> <td>   -3.857</td> <td>   -2.153</td>
-</tr>
-<tr>
-  <th>instrumentalness</th> <td>  148.1213</td> <td>   50.307</td> <td>    2.944</td> <td> 0.003</td> <td>   49.522</td> <td>  246.721</td>
-</tr>
-<tr>
-  <th>liveness</th>         <td>    2.9599</td> <td>    1.014</td> <td>    2.920</td> <td> 0.003</td> <td>    0.973</td> <td>    4.947</td>
-</tr>
-<tr>
-  <th>acousticness</th>     <td>   -1.0650</td> <td>    0.383</td> <td>   -2.778</td> <td> 0.005</td> <td>   -1.816</td> <td>   -0.314</td>
-</tr>
-</table>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[34]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[67]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.linear_model</span> <span class="kn">import</span> <span class="n">LogisticRegressionCV</span>
 
-<span class="n">clf</span> <span class="o">=</span> <span class="n">LogisticRegressionCV</span><span class="p">(</span><span class="n">cv</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">Xtrain</span><span class="p">,</span> <span class="n">ytrain</span><span class="p">)</span>
+<span class="c1"># Logistic regression run with stratified k-folds where k=5</span>
+<span class="n">clf</span> <span class="o">=</span> <span class="n">LogisticRegressionCV</span><span class="p">(</span><span class="n">cv</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">fit</span><span class="p">(</span><span class="n">Xtrain</span><span class="p">,</span> <span class="n">ytrain</span><span class="p">)</span>
 <span class="n">clf</span><span class="o">.</span><span class="n">score</span><span class="p">(</span><span class="n">Xtrain</span><span class="p">,</span> <span class="n">ytrain</span><span class="p">)</span>
 </pre></div>
 
@@ -15870,13 +15710,13 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[34]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[67]:</div>
 
 
 
 
 <div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
-<pre>0.7233502538071066</pre>
+<pre>0.7258883248730964</pre>
 </div>
 
 </div>
@@ -15885,18 +15725,30 @@ The broader distribution of these audio features makes sense when thinking about
 
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>The score above shows that there is a 72.6% accuracy for the model on predicting the training data, which is just ok. The score is probably lower because there isn't an extremely distinct correlation between the training set features and ratings. However, the score is still decent, so we can use it to predict the ratings of the recommendation set.</p>
+
+</div>
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[37]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[68]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">Xtest</span> <span class="o">=</span> <span class="n">recommendations</span><span class="p">[[</span><span class="s2">&quot;popularity&quot;</span><span class="p">,</span> <span class="s2">&quot;energy&quot;</span><span class="p">,</span> <span class="s2">&quot;instrumentalness&quot;</span><span class="p">,</span> <span class="s2">&quot;liveness&quot;</span><span class="p">,</span> <span class="s2">&quot;acousticness&quot;</span><span class="p">]]</span>
+
+<span class="c1"># Use the logistic regression model to predict ratings for the recommendation set</span>
 <span class="n">predictions</span> <span class="o">=</span> <span class="n">clf</span><span class="o">.</span><span class="n">predict</span><span class="p">(</span><span class="n">Xtest</span><span class="p">)</span>
 <span class="n">recommendations</span><span class="p">[</span><span class="s1">&#39;pred_ratings&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">predictions</span>
-<span class="n">recommendations</span>
+
+<span class="c1"># Print all recommendations with a rating of 1</span>
+<span class="n">recommendations</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;pred_ratings==1&#39;</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -15914,7 +15766,7 @@ The broader distribution of these audio features makes sense when thinking about
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[37]:</div>
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[68]:</div>
 
 
 
@@ -16038,26 +15890,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>4</th>
-      <td>Luna Li</td>
-      <td>Duality</td>
-      <td>Cherry Pit</td>
-      <td>6A99m7rCQHZ1Len8QlPfOf</td>
-      <td>canadian garage rock</td>
-      <td>41</td>
-      <td>290565</td>
-      <td>0.701</td>
-      <td>0.707</td>
-      <td>0.602</td>
-      <td>120.753</td>
-      <td>-7.423</td>
-      <td>0.0367</td>
-      <td>0.000392</td>
-      <td>0.153</td>
-      <td>0.2</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>5</th>
       <td>Car Seat Headrest</td>
       <td>Commit Yourself Completely</td>
@@ -16076,26 +15908,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>0.946</td>
       <td>0.92</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Tkay Maidza</td>
-      <td>Last Year Was Weird, Vol.2</td>
-      <td>My Flowers</td>
-      <td>1Ac6vbVAAI7BDrtlGX1iEr</td>
-      <td>alternative r&amp;b</td>
-      <td>24</td>
-      <td>220288</td>
-      <td>0.621</td>
-      <td>0.353</td>
-      <td>0.48</td>
-      <td>87.047</td>
-      <td>-6.364</td>
-      <td>0.279</td>
-      <td>0</td>
-      <td>0.223</td>
-      <td>0.123</td>
-      <td>0</td>
     </tr>
     <tr>
       <th>7</th>
@@ -16158,46 +15970,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>10</th>
-      <td>Dora Jar</td>
-      <td>comfortably in pain</td>
-      <td>Lagoon</td>
-      <td>4ZCjHrvSjyp7bltVJtGvNt</td>
-      <td>indie pop</td>
-      <td>46</td>
-      <td>153315</td>
-      <td>0.648</td>
-      <td>0.374</td>
-      <td>0.562</td>
-      <td>72.014</td>
-      <td>-6.124</td>
-      <td>0.0535</td>
-      <td>0.000032</td>
-      <td>0.1</td>
-      <td>0.645</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>11</th>
-      <td>Blue Dahlia</td>
-      <td>1995</td>
-      <td>1995</td>
-      <td>2AjLglUo6dT2WvXwACfsEL</td>
-      <td>None</td>
-      <td>45</td>
-      <td>235755</td>
-      <td>0.64</td>
-      <td>0.0711</td>
-      <td>0.707</td>
-      <td>106.013</td>
-      <td>-3.973</td>
-      <td>0.0242</td>
-      <td>0.00333</td>
-      <td>0.0896</td>
-      <td>0.401</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>12</th>
       <td>Remi Wolf</td>
       <td>Live at Electric Lady</td>
@@ -16238,26 +16010,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>14</th>
-      <td>Bickle</td>
-      <td>Apocalypse Love Song</td>
-      <td>Apocalypse Love Song</td>
-      <td>5sisWMCOONgnbPJ5Q4MZq9</td>
-      <td>modern indie pop</td>
-      <td>41</td>
-      <td>155667</td>
-      <td>0.787</td>
-      <td>0.509</td>
-      <td>0.223</td>
-      <td>81.521</td>
-      <td>-9.413</td>
-      <td>0.0328</td>
-      <td>0.000017</td>
-      <td>0.1</td>
-      <td>0.628</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>15</th>
       <td>See You Next Year</td>
       <td>Pigeons &amp; Planes presents: See You Next Year</td>
@@ -16278,26 +16030,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>16</th>
-      <td>Rozie Ramati</td>
-      <td>Orange Juice</td>
-      <td>Orange Juice</td>
-      <td>3s4QIE9CMkTRCufw1q0evm</td>
-      <td>None</td>
-      <td>46</td>
-      <td>175750</td>
-      <td>0.397</td>
-      <td>0.121</td>
-      <td>0.393</td>
-      <td>80.046</td>
-      <td>-10.806</td>
-      <td>0.0319</td>
-      <td>0.000102</td>
-      <td>0.116</td>
-      <td>0.736</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>17</th>
       <td>COIN</td>
       <td>Rainbow Mixtape</td>
@@ -16316,46 +16048,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>0.247</td>
       <td>0.29</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <th>18</th>
-      <td>John Keek</td>
-      <td>Do You Love John Keek?</td>
-      <td>Wedding Song</td>
-      <td>7qJy9SQil6dBiRCLM38gkh</td>
-      <td>None</td>
-      <td>30</td>
-      <td>190000</td>
-      <td>0.639</td>
-      <td>0.699</td>
-      <td>0.734</td>
-      <td>118.118</td>
-      <td>-8.564</td>
-      <td>0.0535</td>
-      <td>0.000066</td>
-      <td>0.137</td>
-      <td>0.592</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>19</th>
-      <td>Junior Varsity</td>
-      <td>Junior Varsity</td>
-      <td>MJ</td>
-      <td>07EKEnhIoCCwOZiedzGfOt</td>
-      <td>modern alternative pop</td>
-      <td>39</td>
-      <td>116096</td>
-      <td>0.474</td>
-      <td>0.571</td>
-      <td>0.843</td>
-      <td>97.474</td>
-      <td>-4.647</td>
-      <td>0.0534</td>
-      <td>0.000002</td>
-      <td>0.15</td>
-      <td>0.491</td>
-      <td>0</td>
     </tr>
     <tr>
       <th>20</th>
@@ -16438,126 +16130,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>24</th>
-      <td>Andy Shauf</td>
-      <td>The Party</td>
-      <td>Begin Again</td>
-      <td>3n0vpcJCF4Cgb8Q9ju4a5Z</td>
-      <td>canadian indie folk</td>
-      <td>31</td>
-      <td>197680</td>
-      <td>0.836</td>
-      <td>0.434</td>
-      <td>0.225</td>
-      <td>109.859</td>
-      <td>-10.718</td>
-      <td>0.0379</td>
-      <td>0.000003</td>
-      <td>0.0984</td>
-      <td>0.462</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>25</th>
-      <td>Hana Vu</td>
-      <td>Public Storage</td>
-      <td>April Fool</td>
-      <td>023K8UuzkevZtDABzsFypo</td>
-      <td>bedroom pop</td>
-      <td>41</td>
-      <td>181240</td>
-      <td>0.493</td>
-      <td>0.0698</td>
-      <td>0.307</td>
-      <td>100.031</td>
-      <td>-15.882</td>
-      <td>0.0287</td>
-      <td>0.000744</td>
-      <td>0.0894</td>
-      <td>0.845</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>26</th>
-      <td>Kid Sistr</td>
-      <td>Dallas</td>
-      <td>Dallas</td>
-      <td>5wfvhsvY3u7T1a6vilnm7Q</td>
-      <td>None</td>
-      <td>43</td>
-      <td>294653</td>
-      <td>0.325</td>
-      <td>0.0791</td>
-      <td>0.33</td>
-      <td>180.553</td>
-      <td>-10.062</td>
-      <td>0.0372</td>
-      <td>0.0055</td>
-      <td>0.0998</td>
-      <td>0.489</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>27</th>
-      <td>Asiatica</td>
-      <td>*sigh* Nevermind</td>
-      <td>*sigh* Nevermind</td>
-      <td>3vHMtkPfqTmmciY9g4xz28</td>
-      <td>None</td>
-      <td>39</td>
-      <td>179320</td>
-      <td>0.521</td>
-      <td>0.35</td>
-      <td>0.645</td>
-      <td>125.909</td>
-      <td>-7.639</td>
-      <td>0.0532</td>
-      <td>0.00793</td>
-      <td>0.111</td>
-      <td>0.179</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>28</th>
-      <td>Vampire Weekend</td>
-      <td>Father of the Bride</td>
-      <td>Flower Moon (feat. Steve Lacy)</td>
-      <td>3ujuDsiyBLAXAB6dtNwpGu</td>
-      <td>baroque pop</td>
-      <td>44</td>
-      <td>237347</td>
-      <td>0.726</td>
-      <td>0.393</td>
-      <td>0.759</td>
-      <td>110.05</td>
-      <td>-7.151</td>
-      <td>0.0614</td>
-      <td>0.00068</td>
-      <td>0.15</td>
-      <td>0.529</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>29</th>
-      <td>Tyler Cole</td>
-      <td>We're in Love &amp; the World Is Ending</td>
-      <td>Sidney Poitier</td>
-      <td>2E1S0U9CUiSvdmAMVdgevL</td>
-      <td>bedroom soul</td>
-      <td>34</td>
-      <td>260000</td>
-      <td>0.332</td>
-      <td>0.121</td>
-      <td>0.439</td>
-      <td>106.521</td>
-      <td>-11.117</td>
-      <td>0.0463</td>
-      <td>0.00548</td>
-      <td>0.0844</td>
-      <td>0.192</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>30</th>
       <td>Lana Del Rey</td>
       <td>Did you know that there's a tunnel under Ocean...</td>
@@ -16618,26 +16190,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>33</th>
-      <td>Danielson</td>
-      <td>Worried Shoes</td>
-      <td>Worried Shoes</td>
-      <td>08yXUszdLuligBxAddL7d9</td>
-      <td>freak folk</td>
-      <td>49</td>
-      <td>233820</td>
-      <td>0.42</td>
-      <td>0.531</td>
-      <td>0.561</td>
-      <td>129.598</td>
-      <td>-9.622</td>
-      <td>0.0407</td>
-      <td>0.000038</td>
-      <td>0.14</td>
-      <td>0.0287</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>34</th>
       <td>Omar Apollo</td>
       <td>Evergreen (You Didn't Deserve Me At All) [Stri...</td>
@@ -16656,26 +16208,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>0.108</td>
       <td>0.9</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <th>35</th>
-      <td>PNAU</td>
-      <td>You Know What I Need</td>
-      <td>You Know What I Need</td>
-      <td>5PQFmB2xhRkJTUWDKccBoP</td>
-      <td>alternative dance</td>
-      <td>68</td>
-      <td>170000</td>
-      <td>0.768</td>
-      <td>0.829</td>
-      <td>0.896</td>
-      <td>109.959</td>
-      <td>-3.501</td>
-      <td>0.0969</td>
-      <td>0</td>
-      <td>0.0412</td>
-      <td>0.0152</td>
-      <td>0</td>
     </tr>
     <tr>
       <th>36</th>
@@ -16736,26 +16268,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>0.107</td>
       <td>0.107</td>
       <td>1</td>
-    </tr>
-    <tr>
-      <th>39</th>
-      <td>Mono Moon</td>
-      <td>One Liner</td>
-      <td>One Liner</td>
-      <td>4t7H5fZLsnoUWTS6rPggAs</td>
-      <td>None</td>
-      <td>45</td>
-      <td>202120</td>
-      <td>0.6</td>
-      <td>0.38</td>
-      <td>0.767</td>
-      <td>77.018</td>
-      <td>-6.629</td>
-      <td>0.0396</td>
-      <td>0.00787</td>
-      <td>0.0831</td>
-      <td>0.193</td>
-      <td>0</td>
     </tr>
     <tr>
       <th>40</th>
@@ -17018,46 +16530,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>1</td>
     </tr>
     <tr>
-      <th>53</th>
-      <td>Tennis</td>
-      <td>One Night with The Valet</td>
-      <td>One Night with The Valet</td>
-      <td>3idyjPuEkDzVSFrA9A8Nh5</td>
-      <td>art pop</td>
-      <td>58</td>
-      <td>113400</td>
-      <td>0.631</td>
-      <td>0.621</td>
-      <td>0.449</td>
-      <td>150.044</td>
-      <td>-8.185</td>
-      <td>0.0369</td>
-      <td>0.0028</td>
-      <td>0.0683</td>
-      <td>0.156</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>54</th>
-      <td>John Keek</td>
-      <td>Do You Love John Keek?</td>
-      <td>Crash</td>
-      <td>2ZMuLux8JGW3reAstWsS0g</td>
-      <td>None</td>
-      <td>29</td>
-      <td>134990</td>
-      <td>0.625</td>
-      <td>0.605</td>
-      <td>0.674</td>
-      <td>125.088</td>
-      <td>-6.348</td>
-      <td>0.0383</td>
-      <td>0.0105</td>
-      <td>0.0786</td>
-      <td>0.557</td>
-      <td>0</td>
-    </tr>
-    <tr>
       <th>55</th>
       <td>Jakey</td>
       <td>ROMCOM</td>
@@ -17117,46 +16589,6 @@ The broader distribution of these audio features makes sense when thinking about
       <td>0.407</td>
       <td>1</td>
     </tr>
-    <tr>
-      <th>58</th>
-      <td>Rahul</td>
-      <td>ANECDOTE (REMIX) [feat. Teezo Touchdown]</td>
-      <td>ANECDOTE (REMIX) [feat. Teezo Touchdown]</td>
-      <td>7rVeOpYLHAS5luBPIv79t2</td>
-      <td>None</td>
-      <td>49</td>
-      <td>171000</td>
-      <td>0.524</td>
-      <td>0.327</td>
-      <td>0.636</td>
-      <td>160.008</td>
-      <td>-7.168</td>
-      <td>0.156</td>
-      <td>0.000643</td>
-      <td>0.0787</td>
-      <td>0.328</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <th>59</th>
-      <td>Fousheé</td>
-      <td>softCORE</td>
-      <td>simmer down</td>
-      <td>4gtzhQZFZPx0xV5ZOLqck0</td>
-      <td>alternative r&amp;b</td>
-      <td>44</td>
-      <td>164080</td>
-      <td>0.338</td>
-      <td>0.242</td>
-      <td>0.971</td>
-      <td>187.883</td>
-      <td>-2.805</td>
-      <td>0.505</td>
-      <td>0.0107</td>
-      <td>0.136</td>
-      <td>0.00814</td>
-      <td>1</td>
-    </tr>
   </tbody>
 </table>
 </div>
@@ -17168,15 +16600,23 @@ The broader distribution of these audio features makes sense when thinking about
 
 </div>
 
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+</div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Let's see how many of the recommended songs were given a rating of 1.</p>
+
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[69]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">recommendations</span><span class="p">[</span><span class="s1">&#39;pred_ratings&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span> <span class="o">*</span> <span class="mi">100</span>
 </pre></div>
 
      </div>
@@ -17184,6 +16624,57 @@ The broader distribution of these audio features makes sense when thinking about
 </div>
 </div>
 
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[69]:</div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/plain">
+<pre>1    65.0
+0    35.0
+Name: pred_ratings, dtype: float64</pre>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>65% of the recommendation dataset was given a predicted rating of 1 which is a decent score. According to my current taste in music, this is showing that the model predicts that I will like 65% of the songs. This could mean two different things: my model is not very accurate, or Spotify puts songs that are possibly more of a wildcard into their recommended playlists.</p>
+
+</div>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h2 id="Conclusion">Conclusion<a class="anchor-link" href="#Conclusion">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>After exploring my Spotify playlists, and comparing my old top songs to my new ones, I was able to see that there isn't a huge difference in the different mood audio features that I enjoy, even though the genres that I listen to have diversified a lot. I was also able to see that Spotify is decently good at recommending songs that it thinks I will enjoy based on a logistic regression model that was fitted to my data.</p>
+<p>It would be interesting to explore this more by changing the dataset to use my favorite playlists compared to random playlists that I pull off of Spotify. It would also be interesting to see how I could compare my listening taste to someone else's. A reason why my model was less accurate is because all of the data that I was using came from songs that I listen to now or have listened to before a lot. I would like to see if the accuracy increased if I rated tracks that I listen to more strictly. I would also be interested in putting more time into this project to see if rating each song from 1-10 would allow for a more accurate model.</p>
+
+</div>
+</div>
 </div>
 </body>
 
